@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: wlsgur4033@gmail.com
 description: "Every failure is leading towards success."
 keyword: "JH, JH Blog, React, Redux, front-end, 개발블로그, 개발공부"
-url: "http://JH.github.io"          # your host, for absolute URL
+url: "http://gogoJH.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/gogoJH/JH.github.io.git" # you code repository
+github_repo: "https://github.com/gogoJH/gogoJH.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -78,7 +78,7 @@ gitalk:
 
 # Google Analytics
 ga_track_id: 'UA-137071685-1'            # Format: UA-xxxxxx-xx
-ga_domain: JH.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_domain: gogoJH.github.io               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
