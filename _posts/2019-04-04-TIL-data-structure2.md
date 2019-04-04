@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2019.04.03 Data Structures 2"
+title:      "2019.04.04 Data Structures 2"
 subtitle:   "Tree, Binary Tree, Hash Table, Graph"
 date:       2019-04-04
 author:     gogoJH
