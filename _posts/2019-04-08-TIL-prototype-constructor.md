@@ -39,6 +39,7 @@ Human.prototype.sleep = function() { console.log('sleep')};
 ```
 
 
+<br>
 
 ### Constructor
 
@@ -53,6 +54,7 @@ steve.prototype.construct === Human // true;
 
 ```
 
+<br>
 
 
 ### _proto_
@@ -69,6 +71,7 @@ steve._proto_ = Human.prototype // true;
 
 ```
 
+<br>
   
 ---
 
