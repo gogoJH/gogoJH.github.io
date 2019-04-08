@@ -25,7 +25,8 @@ tags:
 
 ### ProtoType 
   
-<br>
+
+
 1.  &nbsp; 생성자만 가질 수 있고 생성될 객체를 사용할 때 사용할 메소드들의 집합
 
 
@@ -37,9 +38,12 @@ function Human (name) {
 Human.prototype.sleep = function() { console.log('sleep')};
 ```
 
+
+
 ### Constructor
-<br>
-  
+
+
+
 1.  &nbsp; 어떤 Instance를 만들어낸 생성자를 바라본다.
 
 ```
@@ -49,9 +53,12 @@ steve.prototype.construct === Human // true;
 
 ```
 
+
+
 ### _proto_
 
-<br>
+
+
 1. &nbsp; 날 만든 생성자의 prototype을 바라본다.
 
 ```
@@ -64,6 +71,8 @@ steve._proto_ = Human.prototype // true;
 
   
 ---
+
+
 
 #### coment
 &nbsp; 크하하핫 ... 사실 몇 일동안 머리속 정리가 너무 힘들어서..
