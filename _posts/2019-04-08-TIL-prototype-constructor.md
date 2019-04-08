@@ -21,7 +21,7 @@ tags:
 >  `_proto_`는 생성한 생성자의 prototype을 바라본다.
 >  class를 쓰면 너무 편하게 prototype chaning 할 수 있다.
 
-  
+<br>
 
 ### ProtoType 
   
