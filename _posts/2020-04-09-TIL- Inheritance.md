@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2019.04.10 Inheritance"
+title:      "2019.04.9 Inheritance"
 subtitle:   ""
-date:       2019-04-10
+date:       2019-04-09
 author:     gogoJH
 header-img: img/post-bg-first.jpg
 catalog: true
