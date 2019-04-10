@@ -53,7 +53,7 @@ child.prototype.construct = Child;
 
 #### coment
 &nbsp; 정말 헤매였던 부분이 Child에 부모 prototype이 가지고 있는 메소드를 재정의 하면서
-parent 의 같은 메소드를 사용할 때였는데 막상 알고나니까 허무해져버리더라 ㅠㅠ
+&nbsp; parent 의 같은 메소드를 사용할 때였는데 막상 알고나니까 허무해져버리더라 ㅠㅠ
   
 
 ### 끝!
