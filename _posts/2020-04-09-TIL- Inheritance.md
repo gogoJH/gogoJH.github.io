@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2019.04.9 Inheritance"
+title:      "2019.04.09 Inheritance"
 subtitle:   ""
 date:       2019-04-09
 author:     gogoJH
@@ -17,10 +17,10 @@ tags:
   
 # 오늘 한 일
 
->  오늘은 상속 관계(Inheritance)를 배우고 나서 실전처럼 써보았다.
->  부모의 prototype에 저장 되어있는 메서드를 자식에서 쓰려니까 참 골머리가 아프더라.
->  막상 `this.bind` 하는 방법도 알고 있다고 생각했는데 코드 속에서 막 바뀌는 `this`를
->  생각하고 쓴다는게 쉽지가 않았다.
+>  오늘은 상속 관계(Inheritance)를 배우고 나서 실전처럼 써보았다. <br>
+>  부모의 prototype에 저장 되어있는 메서드를 자식에서 쓰려니까 참 골머리가 아프더라. <br>
+>  막상 `this.bind` 하는 방법도 알고 있다고 생각했는데 코드 속에서 막 바뀌는 `this`를 <br>
+>  생각하고 쓴다는게 쉽지가 않았다.<br>
 >  그래서 답은 es6라는거지 .. super 짱 하하 ;;
 
 <br>
