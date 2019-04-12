@@ -24,13 +24,14 @@ tags:
 
 <!-- 자식이 될 녀석을 만드는 생성자에서 자신의 prototype을 부모를 바라보게 만들면 부모의 메소드들 -->
 1. &nbsp; **WWW** 상에서 정보를 주고 받을 수 있는 **프로토콜**(규약)
+
   &nbsp; 우리가 ***'어떤 사이트'***에 접속 한다고 했을 때 주소를 넣고 엔터를 치거나 링크를 <br>
   &nbsp; 클릭 하거나 브라우저 상에서의 모든 행동들은 저마다의 명령어가 되어서 서버에서<br>
   &nbsp; 어떤 형태로든 자료를 가져오게 된다. 그 과정에서 어떤 **규약**이 없다면 웹사이트마다 <br>
   &nbsp; 그에 맞는 통신 방법을 다 알아야 웹사이트를 사용할수 있게 된다 .<br>
   &nbsp; 예를 들어 한국 사람이 영어를 못하면 미국인과 ***대화***를 못하듯이 말이다. <br>
 
-![웹사이트 접속](img/post-http-get-post.png)
+![웹사이트 접속](/img/post-http-get-post.png)
 
 <br>
 
@@ -43,7 +44,7 @@ tags:
   &nbsp; 할 때 우리는 Get 메서드를 통해 가져오게 된다.<br>
   &nbsp; 그럼 서버는 처음 보여줄 웹 페이지의 정보를 Response에 담아 보내준다. <br>
 
-![웹페이지 다운](img/post-http-get-post2.png)
+![웹페이지 다운](/img/post-http-get-post2.png)
 
 <br>
 
@@ -57,7 +58,7 @@ tags:
 &nbsp; 변화가 일어나는 일들을 하게 되는데 그럴 땐 Post 메서드를 통해서 내가 한 행동을 <br>
 &nbsp; 보내주고 되고 그 행동에 맞는 정보를 서버는 Response에 담아 보내준다.  <br>
 
-![정보 수정](img/post-http-get-post3.png)
+![정보 수정](/img/post-http-get-post3.png)
 
 <br>
 ---
