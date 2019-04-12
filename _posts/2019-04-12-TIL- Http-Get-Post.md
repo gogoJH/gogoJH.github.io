@@ -33,7 +33,7 @@ tags:
 &nbsp; 그에 맞는 통신 방법을 다 알아야 웹사이트를 사용할수 있게 된다 .<br>
 &nbsp; 예를 들어 한국 사람이 영어를 못하면 미국인과 대화를 못하듯이 말이다. <br>
 
-![웹사이트 접속](../img/post-http-get-post.png)
+![웹사이트 접속](img/post-http-get-post.png)
 
 <br>
 
@@ -47,7 +47,7 @@ tags:
 
 &nbsp; 그럼 서버는 처음 보여줄 웹 페이지의 정보를 Response에 담아 보내준다. <br>
 
-![웹페이지 다운](../img/post-http-get-post2.png)
+![웹페이지 다운](img/post-http-get-post2.png)
 
 <br>
 
@@ -60,7 +60,7 @@ tags:
 
 &nbsp; 보내주고 되고 그 행동에 맞는 정보를 서버는 Response에 담아 보내준다.  <br>
 
-![정보 수정](../img/post-http-get-post3.png)
+![정보 수정](img/post-http-get-post3.png)
 
 <br>
 ---
