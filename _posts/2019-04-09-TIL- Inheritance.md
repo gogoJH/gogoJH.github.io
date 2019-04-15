@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "2019.04.09 Inheritance"
-subtitle:   ""
+title:      "2019.04.09 Inheritance 2"
+subtitle:   "__proto__, prototype, constructor"
 date:       2019-04-09
 author:     gogoJH
 header-img: img/post-bg-first.jpg
