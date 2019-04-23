@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      "2019.04.23 Javascript Event loop"
+subtitle:   "Sync, Async, Stack, Web APIs"
+date:       2019-04-23
+author:     gogoJH
+header-img: img/post-bg-first.jpg
+catalog: true
+tags:
+    - TIL
+    - 개발일기
+    - JS
+---
+
 <br>
 
 
@@ -130,6 +144,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbNTg5NTkxMTc2LDE0MTY3
-OTYwMzIsLTE1MTA3NjQwMzYsLTEyMzQ2NTExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTU4MTQ0NDc1NCw1ODk1
+OTExNzYsMTQxNjc5NjAzMiwtMTUxMDc2NDAzNiwtMTIzNDY1MT
+E5MF19
 -->
