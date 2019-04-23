@@ -41,7 +41,8 @@ tags:
 
 ![Why Non-Blocking](https://image.slidesharecdn.com/buildingnonblockingrest-151025131258-lva1-app6892/95/building-a-nonblocking-rest-api-in-less-than-30-minutes-11-638.jpg?cb=1445778858)
 
-그래서 Javascript는 Web APIs란 비동기영역을 만들어 두고, 
+그래서 Javascript는 Web APIs란 비동기영역을 만들어 두고, 데이터를 받아오는데 
+시간이 걸리는 
 
 
 ### Coment
@@ -57,8 +58,9 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTMwNjYwMjQ1OSwtNzE0
-MzQyODYsLTIwNDg4OTExODAsLTg0Mzc4NDUyMiw5MTkzNTAzND
-IsLTc0OTExNzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2
-Nzk2MDMyLC0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTE3NjQ1NzIxMzYsLTMw
+NjYwMjQ1OSwtNzE0MzQyODYsLTIwNDg4OTExODAsLTg0Mzc4ND
+UyMiw5MTkzNTAzNDIsLTc0OTExNzYzMCwxNTgxNDQ0NzU0LDU4
+OTU5MTE3NiwxNDE2Nzk2MDMyLC0xNTEwNzY0MDM2LC0xMjM0Nj
+UxMTkwXX0=
 -->
