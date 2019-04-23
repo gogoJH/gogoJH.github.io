@@ -5,12 +5,15 @@
 
 
 > Sync , Async 개념을 알게 되었다.
-> 자바스크립트의 작동 
+> 
+> 자바스크립트의 Event Loop에 대해 이해하게 되었다.
+> 
+> Stack 과 Web APIs 작동원리에 대해 알게 되었다.
 
 ---
 
 
-### Props
+### Sync
 
 
 ==**Component**가 **Data**를 주고 받을 때 사용한다.==
@@ -127,6 +130,6 @@ RhY2ssIFdlYiBBUElzXCJcbmRhdGU6ICAgICAgIDIwMTktMDQt
 MTVcbmF1dGhvcjogICAgIGdvZ29KSFxuaGVhZGVyLWltZzogL2
 ltZy9wb3N0LWJnLWZpcnN0LmpwZ1xuY2F0YWxvZzogdHJ1ZVxu
 dGFnczpcbiAgICAtIFRJTFxuICAgIC0g6rCc67Cc7J286riwXG
-4gICAgLSBKU1xuIiwiaGlzdG9yeSI6WzEzODQzOTg0NiwtMTUx
-MDc2NDAzNiwtMTIzNDY1MTE5MF19
+4gICAgLSBKU1xuIiwiaGlzdG9yeSI6WzE0MTY3OTYwMzIsLTE1
+MTA3NjQwMzYsLTEyMzQ2NTExOTBdfQ==
 -->
