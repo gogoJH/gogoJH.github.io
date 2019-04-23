@@ -4,7 +4,7 @@ title:      "2019.04.04 Data Structures 2"
 subtitle:   "Tree, Binary Tree, Hash Table, Graph"
 date:       2019-04-04
 author:     gogoJH
-header-img: img/post-bg-first.jpg
+header-img: /img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -52,3 +52,6 @@ tags:
   
 
 ### 끝!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0NjQ1MjA1OV19
+-->
