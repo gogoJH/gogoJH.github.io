@@ -4,7 +4,7 @@ title:      "2019.04.02 This, Scope, Closure!"
 subtitle:   "JS는 Java가 아니였다.."
 date:       2019-04-02
 author:     gogoJH
-header-img: /img/post-bg-first.jpg
+header-img: img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -59,5 +59,5 @@ tags:
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3ODMzMzUxXX0=
+eyJoaXN0b3J5IjpbMTMyNTUzNDAzNF19
 -->
