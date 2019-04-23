@@ -35,8 +35,9 @@ tags:
  
 예전처럼 링크하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 그냥 당연히
 기다려야하겠지 했었는데 , 요즘처럼 Single Page로 웹어플리케이션을 만들게 되고,
-어떤 Event에 따라 많은 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 일처리
-방식으론 사용자 친화적으로 
+어떤 Event에 따라 많은 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 
+일처리 방식으론 사용자 친화적인 어플리케이션 개발을 할 수가 없는 지경이 되었을
+거라 생각된다. 
 
 ### Coment
 
@@ -51,7 +52,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTEyODIxNzI0MjEsLTc0
-OTExNzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MD
-MyLC0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbOTE5MzUwMzQyLC03NDkx
+MTc2MzAsMTU4MTQ0NDc1NCw1ODk1OTExNzYsMTQxNjc5NjAzMi
+wtMTUxMDc2NDAzNiwtMTIzNDY1MTE5MF19
 -->
