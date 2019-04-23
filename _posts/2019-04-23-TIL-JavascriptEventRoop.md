@@ -50,11 +50,14 @@ tags:
 ***Stack*** 에서 실행하는 메소드에서 `Web APIs`로 보내졌던 메소드의 데이터가 필요
 하다면 콜백을 통해 동기적으로 사용할 수도 있다.
 
-또한 좀 더 편한 사용을 위해서 Promise가 등장하게 되고, Async await 가 등장하게
+또한 좀 더 편한 사용을 위해서 ***Promise*** 가 등장하게 되고, ***Async await*** 가 등장하게 
 된다. 
 
 
 ### Coment
+처음에는 동기식 과 비동기식의 개념이 엄청 혼동 되서 머리가 아팠는데..
+
+어느정도 이제 머리속에서 정리가 되어가는 느낌이다.
 
 
 
@@ -67,9 +70,9 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTE1NzUwNzgyMCwtMzA2
-NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MTE4MCwtODQzNzg0NT
-IyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1ODE0NDQ3NTQsNTg5
-NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3NjQwMzYsLTEyMzQ2NT
-ExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTE2NDI2MDExLC0zMDY2
+MDI0NTksLTcxNDM0Mjg2LC0yMDQ4ODkxMTgwLC04NDM3ODQ1Mj
+IsOTE5MzUwMzQyLC03NDkxMTc2MzAsMTU4MTQ0NDc1NCw1ODk1
+OTExNzYsMTQxNjc5NjAzMiwtMTUxMDc2NDAzNiwtMTIzNDY1MT
+E5MF19
 -->
