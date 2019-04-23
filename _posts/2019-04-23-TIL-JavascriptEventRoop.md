@@ -33,7 +33,8 @@ tags:
 **Java Script**는 싱글 스레드 기반의 언어라고 알고 있었고 처음에 ***동기 비동기*** 란걸 
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
  
-예전처럼 링크하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 상관 없었겠지만 
+예전처럼 링크하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 그냥 당연히
+기다려야하겠지 했었는데 , 요즘처럼 Single Page로 웹어플리케이션을 만들게 되면. 어떤 Event에 따라  
 
 ### Coment
 
@@ -48,7 +49,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMjI3NDk0ODYxLC03NDkx
-MTc2MzAsMTU4MTQ0NDc1NCw1ODk1OTExNzYsMTQxNjc5NjAzMi
-wtMTUxMDc2NDAzNiwtMTIzNDY1MTE5MF19
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbODMyMjMwNDIsLTc0OTEx
+NzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MDMyLC
+0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
 -->
