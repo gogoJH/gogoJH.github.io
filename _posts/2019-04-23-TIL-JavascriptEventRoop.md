@@ -34,7 +34,9 @@ tags:
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
  
 예전처럼 링크하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 그냥 당연히
-기다려야하겠지 했었는데 , 요즘처럼 Single Page로 웹어플리케이션을 만들게 되면. 어떤 Event에 따라  
+기다려야하겠지 했었는데 , 요즘처럼 Single Page로 웹어플리케이션을 만들게 되고,
+어떤 Event에 따라 많은 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 일처리
+방식으론 사용자 친화적으로 
 
 ### Coment
 
@@ -49,7 +51,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbODMyMjMwNDIsLTc0OTEx
-NzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MDMyLC
-0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTEyODIxNzI0MjEsLTc0
+OTExNzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MD
+MyLC0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
 -->
