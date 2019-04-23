@@ -4,7 +4,7 @@ title:      "2019.04.12 Http(Get Post)"
 subtitle:   "Get, Post, Put, Delete"
 date:       2019-04-12
 author:     gogoJH
-header-img: /img/post-bg-first.jpg
+header-img: img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -69,5 +69,5 @@ tags:
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjMwNjI3N119
+eyJoaXN0b3J5IjpbLTEwODcyNDEyNzZdfQ==
 -->
