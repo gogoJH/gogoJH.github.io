@@ -4,7 +4,7 @@ title:      "2019.04.08 Inheritance"
 subtitle:   "__proto__, prototype, constructor"
 date:       2019-04-08
 author:     gogoJH
-header-img: /img/post-bg-first.jpg
+header-img: img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -87,5 +87,5 @@ steve._proto_ = Human.prototype // true;
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5NTI4NzldfQ==
+eyJoaXN0b3J5IjpbMTk2MjkzMjIxMF19
 -->
