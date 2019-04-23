@@ -37,7 +37,7 @@ tags:
 
 근데 요즘처럼 ***Single Page*** 웹어플리케이션을 만들게 되고, 어떤 ***Event*** 에 따라 많은
 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 일처리 방식으론 사용자 
-친화적인 서비스를 할 수가 없는 지경이 되었을거라 생각된다. 
+친화적인 서비스를 할 수 없는 지경이 되었을거라 생각된다. 
 
 ### Coment
 
@@ -52,8 +52,8 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTIxMTYyOTE5NDIsLTIw
-NDg4OTExODAsLTg0Mzc4NDUyMiw5MTkzNTAzNDIsLTc0OTExNz
-YzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MDMyLC0x
-NTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTcxNDM0Mjg2LC0yMDQ4
+ODkxMTgwLC04NDM3ODQ1MjIsOTE5MzUwMzQyLC03NDkxMTc2Mz
+AsMTU4MTQ0NDc1NCw1ODk1OTExNzYsMTQxNjc5NjAzMiwtMTUx
+MDc2NDAzNiwtMTIzNDY1MTE5MF19
 -->
