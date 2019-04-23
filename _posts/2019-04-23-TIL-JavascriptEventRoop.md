@@ -26,7 +26,7 @@ tags:
 
 ---
 
-![Event Loop](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjrquvaiOXhAhXMyosBHXFJDo8QjRx6BAgBEAU&url=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-and-asynchronous-magic-bee537edc2da&psig=AOvVaw3WrWEzQhuoXefbJd6lVn8Y&ust=1556069386821791)
+[Event Loop](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjrquvaiOXhAhXMyosBHXFJDo8QjRx6BAgBEAU&url=https%3A%2F%2Flevelup.gitconnected.com%2Fjavascript-and-asynchronous-magic-bee537edc2da&psig=AOvVaw3WrWEzQhuoXefbJd6lVn8Y&ust=1556069386821791)
 
 ### Coment
 
@@ -49,7 +49,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbNzA0NzUyMTYxLDE1ODE0
-NDQ3NTQsNTg5NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3NjQwMz
-YsLTEyMzQ2NTExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTUyOTUyMzgwNCwxNTgx
+NDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MDMyLC0xNTEwNzY0MD
+M2LC0xMjM0NjUxMTkwXX0=
 -->
