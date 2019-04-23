@@ -30,9 +30,11 @@ tags:
 
 ![Event Loop](https://cdn-images-1.medium.com/max/800/1*m5M4NV495oH4ADvpnItnVQ.png)
 
-**Java Script**는 싱글 스레드 기반의 언어라고 알고 있었고 처음에 동기 비동기란걸
+**Java Script**는 싱글 스레드 기반의 언어라고 알고 있었고 처음에 ***동기 비동기***란걸
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
 
+
+리액트를 다루다보면 
  
 
 ### Coment
@@ -56,7 +58,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTIwNjc1MDcxMzgsLTc0
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTE5ODA0NDI5NjcsLTc0
 OTExNzYzMCwxNTgxNDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MD
 MyLC0xNTEwNzY0MDM2LC0xMjM0NjUxMTkwXX0=
 -->
