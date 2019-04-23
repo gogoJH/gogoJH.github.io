@@ -34,9 +34,8 @@ tags:
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
 
 
-***리액트를 다루다보면 데이터를 받아오거나 보낼 때 `Fetch`를 사용하게 되는데
-이렇게 어떤 다른 컴퓨터와의 통신을 하게 되면 데이터를 받아오는 시간이 필요하게
-되고 
+***React.js*** 를 다루다보면 데이터를 받아오거나 보낼 때 `Fetch`를 사용하게 되고,
+다른 컴퓨터와의 통신을 하게 되면 데이터를 받아오는 시간이 필요하게 되는데 
  
 
 ### Coment
@@ -60,7 +59,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTUyOTUxNzE2NiwtNzQ5
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTI1MjE0NjI1MCwtNzQ5
 MTE3NjMwLDE1ODE0NDQ3NTQsNTg5NTkxMTc2LDE0MTY3OTYwMz
 IsLTE1MTA3NjQwMzYsLTEyMzQ2NTExOTBdfQ==
 -->
