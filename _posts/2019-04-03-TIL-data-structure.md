@@ -4,7 +4,7 @@ title:      "2019.04.03 Data Structures"
 subtitle:   "Stack, Queue, Linked List"
 date:       2019-04-03
 author:     gogoJH
-header-img: /img/post-bg-first.jpg
+header-img: img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -49,5 +49,5 @@ tags:
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzYyMjkxN119
+eyJoaXN0b3J5IjpbMTI5NTM1Mzg2Ml19
 -->
