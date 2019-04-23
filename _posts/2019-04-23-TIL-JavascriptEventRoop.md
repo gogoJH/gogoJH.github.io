@@ -39,7 +39,7 @@ tags:
 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 일처리 방식으론 사용자 
 친화적인 서비스를 할 수 없는 지경이 되었을거라 생각된다. 
 
-![]()
+![Why Non-Blocking](https://image.slidesharecdn.com/buildingnonblockingrest-151025131258-lva1-app6892/95/building-a-nonblocking-rest-api-in-less-than-30-minutes-11-638.jpg?cb=1445778858)
 
 ### Coment
 
@@ -54,7 +54,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTEyMTQxMDYwMDgsLTcx
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTExMzI4NTY0MzYsLTcx
 NDM0Mjg2LC0yMDQ4ODkxMTgwLC04NDM3ODQ1MjIsOTE5MzUwMz
 QyLC03NDkxMTc2MzAsMTU4MTQ0NDc1NCw1ODk1OTExNzYsMTQx
 Njc5NjAzMiwtMTUxMDc2NDAzNiwtMTIzNDY1MTE5MF19
