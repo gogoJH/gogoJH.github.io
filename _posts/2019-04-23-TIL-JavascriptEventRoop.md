@@ -32,9 +32,8 @@ tags:
 
 **Java Script**는 싱글 스레드 기반의 언어라고 알고 있었고 처음에 ***동기 비동기*** 란걸 
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
-
-
  
+예전처럼 링크하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 상관 없었겠지만 
 
 ### Coment
 
@@ -49,7 +48,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTk0NjE0OTY5NSwtNzQ5
-MTE3NjMwLDE1ODE0NDQ3NTQsNTg5NTkxMTc2LDE0MTY3OTYwMz
-IsLTE1MTA3NjQwMzYsLTEyMzQ2NTExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMjI3NDk0ODYxLC03NDkx
+MTc2MzAsMTU4MTQ0NDc1NCw1ODk1OTExNzYsMTQxNjc5NjAzMi
+wtMTUxMDc2NDAzNiwtMTIzNDY1MTE5MF19
 -->
