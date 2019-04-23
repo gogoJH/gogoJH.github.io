@@ -47,6 +47,8 @@ tags:
 보내졌던 메소드들은 그 곳에서 실행을 마치게 되면, Callback Que에 데이터를 보관
 하고 있다가 Stack의 일처리가 끝난 후에 실행하게 된다. 
 
+Stack에서 실행하는 메소드 
+
 
 ### Coment
 
@@ -61,7 +63,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTM5MzkyNjU5NywtMzA2
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTU2MjI0MjQ1MCwtMzA2
 NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MTE4MCwtODQzNzg0NT
 IyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1ODE0NDQ3NTQsNTg5
 NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3NjQwMzYsLTEyMzQ2NT
