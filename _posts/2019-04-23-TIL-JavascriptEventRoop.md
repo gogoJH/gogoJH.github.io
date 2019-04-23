@@ -41,14 +41,17 @@ tags:
 
 ![Why Non-Blocking](https://image.slidesharecdn.com/buildingnonblockingrest-151025131258-lva1-app6892/95/building-a-nonblocking-rest-api-in-less-than-30-minutes-11-638.jpg?cb=1445778858)
 
-그래서 Javascript는 Web APIs란 비동기영역을 만들어 두고, 데이터를 받아오는데 
+그래서 ***Javascript는 Web APIs란 비동기영역을 만들어 두고, 데이터를 받아오는데 
 시간이 걸리는 메소드들을 그쪽으로 보내둔다.
 
 보내졌던 메소드들은 그 곳에서 실행을 마치게 되면, Callback Que에 데이터를 보관
 하고 있다가 Stack의 일처리가 끝난 후에 실행하게 된다. 
 
 Stack에서 실행하는 메소드에서 Web APIs로 보내졌던 메소드의 데이터가 필요
-하다면 
+하다면 콜백을 통해 동기적으로 사용할 수도 있다.
+
+또한 좀 더 편한 사용을 위해서 Promise가 등장하게 되고, Async await 가 등장하게
+된다. 
 
 
 ### Coment
@@ -64,7 +67,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTMzOTc5NTg3MywtMzA2
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTQwODQyMTQxOCwtMzA2
 NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MTE4MCwtODQzNzg0NT
 IyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1ODE0NDQ3NTQsNTg5
 NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3NjQwMzYsLTEyMzQ2NT
