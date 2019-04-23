@@ -1,30 +1,11 @@
----
-layout:     post
-title:      "2019.04.23  Javascript Event loop"
-subtitle:   "Sync, Async, Stack, Web APIs"
-date:       2019-04-15
-author:     gogoJH
-header-img: img/post-bg-first.jpg
-catalog: true
-tags:
-    - TIL
-    - 개발일기
-    - JS
----
-
-
 <br>
 
 
 ## 오늘 한 일
 
 
-> **React.js** 기본적인 사용법을 숙지했고, `Component`들이 `Data`를 `props`로 주고 받는지 알게 되었고,
-> 
-> `Component` 를 어떤 상황에서 **Functional** 하게 만들지, **Classical** 하게 만들지 알게 되었다.
-> 
-> 아직 **Life Cycle** 부분은 더 봐야 겠지만 , 좀 더 큰 프로젝트에서 알게 된다니 개념만 정리해놓고 가야겠다.
-
+> Sync , Async 개념을 알게 되었다.
+> 자바스크립트의 작동 
 
 ---
 
@@ -146,6 +127,6 @@ RhY2ssIFdlYiBBUElzXCJcbmRhdGU6ICAgICAgIDIwMTktMDQt
 MTVcbmF1dGhvcjogICAgIGdvZ29KSFxuaGVhZGVyLWltZzogL2
 ltZy9wb3N0LWJnLWZpcnN0LmpwZ1xuY2F0YWxvZzogdHJ1ZVxu
 dGFnczpcbiAgICAtIFRJTFxuICAgIC0g6rCc67Cc7J286riwXG
-4gICAgLSBKU1xuIiwiaGlzdG9yeSI6Wy0xNTEwNzY0MDM2LC0x
-MjM0NjUxMTkwXX0=
+4gICAgLSBKU1xuIiwiaGlzdG9yeSI6WzEzODQzOTg0NiwtMTUx
+MDc2NDAzNiwtMTIzNDY1MTE5MF19
 -->
