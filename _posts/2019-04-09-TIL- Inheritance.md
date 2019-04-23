@@ -4,7 +4,7 @@ title:      "2019.04.09 Inheritance 2"
 subtitle:   "__proto__, prototype, constructor"
 date:       2019-04-09
 author:     gogoJH
-header-img: img/post-bg-first.jpg
+header-img: /img/post-bg-first.jpg
 catalog: true
 tags:
     - TIL
@@ -57,3 +57,6 @@ child.prototype.construct = Child;
   
 
 ### 끝!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4Mjg5ODc2OV19
+-->
