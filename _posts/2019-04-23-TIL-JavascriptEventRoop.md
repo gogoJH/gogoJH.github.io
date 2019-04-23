@@ -27,101 +27,6 @@ tags:
 ---
 
 
-### Sync
-
-
-==**Component**가 **Data**를 주고 받을 때 사용한다.==
-
-
- 예를 들어,  `App`이라는 가장 상위 컴포넌트가 있다고 하면 하위 `Component`들에게 Data를 넘겨야 한다고 가정해보자.
-
-
-```
-const  App  = () => (
-	<div>
-		<h2>My Todo List</h2>
-		<TodoList todos={[
-			'Learn React',
-			'Crush Recast.ly',
-			'Maybe sleep'
-			]}
-		/>
-	</div>
-);
-
-const  TodoList  = (props) => (
-	<ul>
-		<li>{props.todos[1]}</li>
-		<li>{props.todos[2]}</li>
-		<li>{props.todos[3]}</li>
-	</ul>
-);
-
-ReactDOM.render(<App  />, document.getElementById('root'));
-```
-
-
-![결과](/img/post-react1.png)
-
-
-### State
-
-
-==현재 페이지에서 어떤 행동에 따른 상태를 ***변경*** 하고 싶을 때 사용한다.==
-
-
-예를 들어, `onClick` 이벤트에 따라 리스트들이 `line-through` 된다고 가정해보자.
-
-
-```
-const  App  = () => (
-	<div>
-		<h2>My Todo List</h2>
-		<TodoList todos={[
-			'Learn React',
-			'Crush Recast.ly',
-			'Maybe sleep'
-			]}
-		/>
-	</div>
-);
-
-class TodoList extends React.Component {
-	construct (props) {
-		super(props);
-		this.state = { done: false };
-	}
-	onListClick = () => {
-    // 기존의 state를 this.setState을 통해 바꿀 수 있습니다.
-	   this.setState({done: !this.state.done});
-	}
-	render () {
-	    const style = {
-	      textDecoration: this.state.done ? 'line-through' : 'none'
-	    };
-		
-		return (
-			<ul>
-				<li style = {style} 
-					onClick = {this.onListClick}>
-						{this.props.todos[1]}</li>
-				<li style = {style}
-					onClick = {this.onListClick}>
-						{this.props.todos[2]}</li>
-				<li style = {style} 
-					onClick = {this.onListClick}>
-						{this.props.todos[3]}</li>
-			</ul>
-		)
-	}
-);
-
-ReactDOM.render(<App  />, document.getElementById('root'));
-```
-
-
-요렇게 사용이 가능하다.
-
 
 ### Coment
 
@@ -144,7 +49,7 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbMTU4MTQ0NDc1NCw1ODk1
-OTExNzYsMTQxNjc5NjAzMiwtMTUxMDc2NDAzNiwtMTIzNDY1MT
-E5MF19
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTEyNDU0Mzk2MDAsMTU4
+MTQ0NDc1NCw1ODk1OTExNzYsMTQxNjc5NjAzMiwtMTUxMDc2ND
+AzNiwtMTIzNDY1MTE5MF19
 -->
