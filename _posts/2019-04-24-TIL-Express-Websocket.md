@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2019.04.24 Express, Web Socket(socket.io)"
-subtitle:   "Sync, Async, Stack, Web APIs"
+subtitle:   "Express, Web Socket(socket.io), FS(file system)"
 date:       2019-04-23
 author:     gogoJH
 header-img: img/post-bg-first.jpg
@@ -63,5 +63,5 @@ tags:
 
 ### 끝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTQ2NDgyN119
+eyJoaXN0b3J5IjpbLTEwMzQ5MDU2MV19
 -->
