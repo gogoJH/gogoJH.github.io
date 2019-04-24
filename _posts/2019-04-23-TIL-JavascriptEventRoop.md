@@ -40,7 +40,7 @@ tags:
 친화적인 서비스를 할 수 없는 지경이 되었을거라 생각된다. 
 
 ![Why Non-Blocking](https://image.slidesharecdn.com/buildingnonblockingrest-151025131258-lva1-app6892/95/building-a-nonblocking-rest-api-in-less-than-30-minutes-11-638.jpg?cb=1445778858)
-
+<br>
 그래서 ***Javascript*** 는 `Web APIs`란 비동기영역을 만들어 두고, 데이터를 받아오는데 
 시간이 걸리는 `메소드`들을 그쪽으로 보내둔다.
 
@@ -70,9 +70,9 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTExNDA0NzkwNzcsLTI3
-NzAyMjU3NSwtMzA2NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MT
-E4MCwtODQzNzg0NTIyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1
-ODE0NDQ3NTQsNTg5NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3Nj
-QwMzYsLTEyMzQ2NTExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbNzE5MTk2NjIxLC0yNzcw
+MjI1NzUsLTMwNjYwMjQ1OSwtNzE0MzQyODYsLTIwNDg4OTExOD
+AsLTg0Mzc4NDUyMiw5MTkzNTAzNDIsLTc0OTExNzYzMCwxNTgx
+NDQ0NzU0LDU4OTU5MTE3NiwxNDE2Nzk2MDMyLC0xNTEwNzY0MD
+M2LC0xMjM0NjUxMTkwXX0=
 -->
