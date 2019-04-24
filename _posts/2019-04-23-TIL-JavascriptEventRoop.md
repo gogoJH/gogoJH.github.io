@@ -33,7 +33,7 @@ tags:
 ***Java Script*** 는 싱글 스레드 기반의 언어라고 알고 있었고 처음에 ***동기 비동기*** 란걸 
 신경 쓰지 않아도 되는 언어를 다뤘기 때문에 참 개념 자체가 생소했었다.
  
-예전처럼 ***링크*** 하나 클릭하면 서버에서 HTML 문서를 던져주던 방식에선 그냥 당연히 기다려야하겠지 했었다.
+예전처럼 ***링크*** 하나 클릭하면 서버에서 HTML 문서 던져주던 방식에선 그냥 당연히 기다려야하겠지 했었다.
 
 근데 요즘처럼 ***Single Page*** 웹어플리케이션을 만들게 되고, 어떤 ***Event*** 에 따라 많은
 데이터 변화가 끈김없이 일어나는 이런 환경에선 동기식의 일처리 방식으론 사용자 
@@ -44,8 +44,8 @@ tags:
 그래서 ***Javascript*** 는 `Web APIs`란 비동기영역을 만들어 두고, 데이터를 받아오는데 
 시간이 걸리는 `메소드`들을 그쪽으로 보내둔다.
 
-보내졌던 `메소드`들은 그 곳에서 실행을 마치게 되면, ***Callback Que*** 에 데이터를 보관
-하고 있다가 ***Stack*** 의 일처리가 끝난 후에 실행하게 된다. 
+보내졌던 `메소드`들은 그 곳에서 실행을 마치게 되면, ***Callback Que*** 에 데이터를
+보관하고 있다가 ***Stack*** 의 일처리가 끝난 후에 실행하게 된다. 
 
 ***Stack*** 에서 실행하는 메소드에서 `Web APIs`로 보내졌던 메소드의 데이터가 필요
 하다면 콜백을 통해 동기적으로 사용할 수도 있다.
@@ -70,9 +70,9 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTI3NzAyMjU3NSwtMzA2
-NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MTE4MCwtODQzNzg0NT
-IyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1ODE0NDQ3NTQsNTg5
-NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3NjQwMzYsLTEyMzQ2NT
-ExOTBdfQ==
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTExNDA0NzkwNzcsLTI3
+NzAyMjU3NSwtMzA2NjAyNDU5LC03MTQzNDI4NiwtMjA0ODg5MT
+E4MCwtODQzNzg0NTIyLDkxOTM1MDM0MiwtNzQ5MTE3NjMwLDE1
+ODE0NDQ3NTQsNTg5NTkxMTc2LDE0MTY3OTYwMzIsLTE1MTA3Nj
+QwMzYsLTEyMzQ2NTExOTBdfQ==
 -->
