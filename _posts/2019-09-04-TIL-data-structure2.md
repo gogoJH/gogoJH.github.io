@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2019.04.04 Data Structures 2"
+title:      "2019.09.04 Data Structures 2"
 subtitle:   "Tree, Binary Tree, Hash Table, Graph"
-date:       2019-04-04
+date:       2019-09-04
 author:     gogoJH
 header-img: img/post-bg-first.jpg
 catalog: true
@@ -53,5 +53,5 @@ tags:
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk5Njc1MzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDcyNzk4MDJdfQ==
 -->
