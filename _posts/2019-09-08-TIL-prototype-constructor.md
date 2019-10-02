@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2019.04.08 Inheritance"
+title:      "2019.09.08 Inheritance"
 subtitle:   "__proto__, prototype, constructor"
-date:       2019-04-08
+date:       2019-09-08
 author:     gogoJH
 header-img: img/post-bg-first.jpg
 catalog: true
@@ -87,5 +87,5 @@ steve._proto_ = Human.prototype // true;
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjkzMjIxMF19
+eyJoaXN0b3J5IjpbNjIzMTA1OTM4XX0=
 -->
