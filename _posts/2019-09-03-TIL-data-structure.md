@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2019.04.03 Data Structures"
+title:      "2019.09.03 Data Structures"
 subtitle:   "Stack, Queue, Linked List"
-date:       2019-04-03
+date:       2019-09-03
 author:     gogoJH
 header-img: img/post-bg-first.jpg
 catalog: true
@@ -49,5 +49,5 @@ tags:
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTM1Mzg2Ml19
+eyJoaXN0b3J5IjpbMjIyODY0Njc4XX0=
 -->
