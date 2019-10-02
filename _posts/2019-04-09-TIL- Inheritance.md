@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2019.04.09 Inheritance 2"
+title:      "2019.09.09 Inheritance 2"
 subtitle:   "__proto__, prototype, constructor"
 date:       2019-04-09
 author:     gogoJH
@@ -58,5 +58,6 @@ child.prototype.construct = Child;
 
 ### 끝!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI2OTE5NThdfQ==
+eyJoaXN0b3J5IjpbLTE5Mzc0NDgzMDUsLTIwMzI2OTE5NThdfQ
+==
 -->
