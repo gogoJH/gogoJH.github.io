@@ -18,19 +18,14 @@ tags:
 
 하지만 자바스크립트  프로토타입은 많은 이들에게 혼란을 주기도 한다.
 
-이유는 천천히 읽어보자.
-
   
-
 > "자바스크립트의 프로토타입(Prototype)은  무엇인가?"
 
   
 
 일반적으로 프로토타입(prototype)이란 시제품, 견본 등과 같은 의미로 일반적으로 **원형**이라는 뜻을 가진다.
 
-질문은 "C++, JAVA 에서 Class 란 무엇인가?" 와 같은 맥락이라고 볼 수 있다.
-
-이러한 원천적인 질문의 답은 실질적으로는 "원형" 이라는 일반적인 의미를 벗어나지 않는다.
+객체지향 언어인 JAVA 에서 "붕어빵 틀" 로 많이들 설명하곤 한다.
 
 즉, 자바스크립트에서 프로토타입은 **자신을 만들어낸 객체의 원형**을 뜻한다.
 
@@ -273,5 +268,5 @@ prototype 을 이용한 power 변수는 공유 변수를 뜻한다.
   
 출처: [https://mygumi.tistory.com/312](https://mygumi.tistory.com/312) [마이구미의 HelloWorld]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDIzNTU2MV19
+eyJoaXN0b3J5IjpbMTQ3ODQ2NzcxMV19
 -->
