@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2019.08.23 Javascript Event loop"
+title:      "2019.04.23 Javascript Event loop"
 subtitle:   "Sync, Async, Stack, Web APIs"
-date:       2019-08-23
+date:       2019-04-23
 author:     gogoJH
 header-img: img/post-bg-first.jpg
 catalog: true
@@ -70,5 +70,6 @@ FjaywgV2ViIEFQSXNcIlxuZGF0ZTogICAgICAgMjAxOS0wNC0x
 NVxuYXV0aG9yOiAgICAgZ29nb0pIXG5oZWFkZXItaW1nOiAvaW
 1nL3Bvc3QtYmctZmlyc3QuanBnXG5jYXRhbG9nOiB0cnVlXG50
 YWdzOlxuICAgIC0gVElMXG4gICAgLSDqsJzrsJzsnbzquLBcbi
-AgICAtIEpTXG4iLCJoaXN0b3J5IjpbLTgyMTMwODYxMl19
+AgICAtIEpTXG4iLCJoaXN0b3J5IjpbNjA5MDU1MjQsLTgyMTMw
+ODYxMl19
 -->
