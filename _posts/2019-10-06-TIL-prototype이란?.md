@@ -17,7 +17,7 @@ tags:
 Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달리 자바스크립트는 프로토타입 기반 객체지향 프로그래밍 언어이다.
 
 자바스크립트의 모든 객체는 자신의 부모 역할을 담당하는 객체와 연결되어 있다.
-이것은 마치 객체 지향의 상속 개념과 같이 부모 객체의 프로퍼티 또는 메소드를 상속받아 사용할 수 있게 한다. 이 부모 객체를 **Prototype(프로토타입) 객체** 또는 줄여서 Prototype(프로토타입)이라 한다.
+이것은 마치 객체 지향의 상속 개념과 같이 부모 객체의 프로퍼티 또는 메소드를 상속받아 사용할 수 있게 한다. 이런 부모 객체를 **Prototype(프로토타입) 객체** 또는 줄여서 Prototype(프로토타입)이라 한다.
 
 ![](http://www.nextree.co.kr/content/images/2016/09/hjkwon-140324-prototype-11.png)
 
@@ -306,6 +306,6 @@ _[소스 11]_
 
 지금까지 JavaScript 프로토타입에 대해 정리했습니다. 처음 프로토타입을 공부할 땐, 자바 OOP 관점에서 접근하여 혼란스러웠습니다. 하지만 함수의 내부구조부터 차근차근 접근하였더니 쉽게 이해할 수 있었습니다. 그리고 코드의 재사용 방식에 대해 공부하였던 것도 JavaScript 언어 자체를 이해하는 데 많은 도움이 되었습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwOTA5MzA5LDIxMDcyODkzNDgsLTEwMj
-M4NTkwOTNdfQ==
+eyJoaXN0b3J5IjpbMTY0Mjg2MTkxOSwyMTA3Mjg5MzQ4LC0xMD
+IzODU5MDkzXX0=
 -->
