@@ -27,13 +27,8 @@ tags:
 
 객체지향 언어인 JAVA 에서 "붕어빵 틀" 로 많이들 설명하곤 한다.
 
-즉, 자바스크립트에서 프로토타입은 **자신을 만들어낸 객체의 원형**을 뜻한다.
+즉, 자바스크립트에서 프로토타입은 **자신을 만들어낸 부모**를 뜻한다.
 
-  
-
-만약 반대로 프로토타입은 자신을 통해 만들어질 객체의 원형이라고 생각하고 있다면, 이건 다음 질문에 대한 답이 된다.
-
-  
 
 > "자바스크립트에서 프로토타입(prototype)은 어떻게 사용되는가?"
 
@@ -268,5 +263,5 @@ prototype 을 이용한 power 변수는 공유 변수를 뜻한다.
   
 출처: [https://mygumi.tistory.com/312](https://mygumi.tistory.com/312) [마이구미의 HelloWorld]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODQ2NzcxMV19
+eyJoaXN0b3J5IjpbLTEwMjM4NTkwOTNdfQ==
 -->
