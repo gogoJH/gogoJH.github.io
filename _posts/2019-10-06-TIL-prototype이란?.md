@@ -43,8 +43,11 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 	-   **함수 객체가 생성자로 사용될 때 이 함수를 통해 생성될 객체의 부모 역할을 하는 객체(프로토타입 객체)를 가리킨다.**
 
 ## 3. constructor 프로퍼티
+프로토타입 객체는 constructor 프로퍼티를 갖는다. 이 constructor 프로퍼티는
+자신의 부모가 누군지 알 수 있게 해준다 .
+ps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTYzNDkzNiw0ODExNjk2NTQsMTM5OT
-AyMjgzLDMzOTI5ODcyMCwtMTUxODEwNzIwNiwxNjQyODYxOTE5
-LDIxMDcyODkzNDgsLTEwMjM4NTkwOTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQ0MTQxNzMsNDgxMTY5NjU0LDEzOT
+kwMjI4MywzMzkyOTg3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkx
+OSwyMTA3Mjg5MzQ4LC0xMDIzODU5MDkzXX0=
 -->
