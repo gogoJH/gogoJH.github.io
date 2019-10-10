@@ -12,7 +12,7 @@ tags:
     - 프로젝트
 ---
 
-## prototype이란 ? 
+## 1. prototype이란 ? 
 
 Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달리 자바스크립트는 프로토타입 기반 객체지향 프로그래밍 언어이다.
 
@@ -26,6 +26,6 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 
 ## 2. [[Prototype]] vs prototype 프로퍼티
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMzgyMTYzLC0xNTE4MTA3MjA2LDE2ND
+eyJoaXN0b3J5IjpbMzM5Mjk4NzIwLC0xNTE4MTA3MjA2LDE2ND
 I4NjE5MTksMjEwNzI4OTM0OCwtMTAyMzg1OTA5M119
 -->
