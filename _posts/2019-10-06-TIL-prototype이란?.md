@@ -49,9 +49,9 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ![enter image description here](/img/prototype_4.png)
 
 
-## 4. Prototype chain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5MTIyNDIsNDgxMTY5NjU0LDEzOT
-kwMjI4MywzMzkyOTg3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkx
-OSwyMTA3Mjg5MzQ4LC0xMDIzODU5MDkzXX0=
+eyJoaXN0b3J5IjpbMTg3NTYxODQ1OSwtMTUxOTkxMjI0Miw0OD
+ExNjk2NTQsMTM5OTAyMjgzLDMzOTI5ODcyMCwtMTUxODEwNzIw
+NiwxNjQyODYxOTE5LDIxMDcyODkzNDgsLTEwMjM4NTkwOTNdfQ
+==
 -->
