@@ -49,9 +49,11 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ![enter image description here](/img/prototype_4.png)
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTYxODQ1OSwtMTUxOTkxMjI0Miw0OD
-ExNjk2NTQsMTM5OTAyMjgzLDMzOTI5ODcyMCwtMTUxODEwNzIw
-NiwxNjQyODYxOTE5LDIxMDcyODkzNDgsLTEwMjM4NTkwOTNdfQ
-==
+eyJoaXN0b3J5IjpbMTkzODgyODc5MSwxODc1NjE4NDU5LC0xNT
+E5OTEyMjQyLDQ4MTE2OTY1NCwxMzk5MDIyODMsMzM5Mjk4NzIw
+LC0xNTE4MTA3MjA2LDE2NDI4NjE5MTksMjEwNzI4OTM0OCwtMT
+AyMzg1OTA5M119
 -->
