@@ -46,18 +46,21 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 프로토타입 객체는 constructor 프로퍼티를 갖는다. 이 constructor 프로퍼티는
 자신의 부모가 누군지 알 수 있게 해준다 .
 (부모를 막 바꿀 수 있다 .. 못된 놈 .. )
+
 ![enter image description here](/img/prototype_4.png)
 
 
 ## 4. prototype 객체의 확장
 프로토타입 객체도 객체이므로 일반 객체와 같이 프로퍼티를 추가/삭제할 수 있다. 그리고 이렇게 추가/삭제된 프로퍼티는 즉시 프로토타입 체인에 반영된다.
+
 ![enter image description here](/img/prototype_5.png)
 
 위의 예에서는 Person.prototype 객체에 메소드 sayHello를 추가하였다. 이때 sayHello 메소드는 프로토타입 체인에 반영된다. 따라서 생성자 함수 Person에 의해 생성된 모든 객체는 프로토타입 체인에 의해 부모객체인 Person.prototype의 메소드를 사용할 수 있게 되었다.
+
 ![enter image description here](https://poiemaweb.com/img/extension_prototype.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NzIwMDU0LDg2NjQxNDY0MiwxODc1Nj
-E4NDU5LC0xNTE5OTEyMjQyLDQ4MTE2OTY1NCwxMzk5MDIyODMs
-MzM5Mjk4NzIwLC0xNTE4MTA3MjA2LDE2NDI4NjE5MTksMjEwNz
-I4OTM0OCwtMTAyMzg1OTA5M119
+eyJoaXN0b3J5IjpbLTE1Mzg1NTQ5NzIsODY2NDE0NjQyLDE4Nz
+U2MTg0NTksLTE1MTk5MTIyNDIsNDgxMTY5NjU0LDEzOTkwMjI4
+MywzMzkyOTg3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkxOSwyMT
+A3Mjg5MzQ4LC0xMDIzODU5MDkzXX0=
 -->
