@@ -45,9 +45,10 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ## 3. constructor 프로퍼티
 프로토타입 객체는 constructor 프로퍼티를 갖는다. 이 constructor 프로퍼티는
 자신의 부모가 누군지 알 수 있게 해준다 .
-ps.
+(부모를 막 바꿀 수 있다 .. 못된 놈 .. )
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ0MTQxNzMsNDgxMTY5NjU0LDEzOT
-kwMjI4MywzMzkyOTg3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkx
-OSwyMTA3Mjg5MzQ4LC0xMDIzODU5MDkzXX0=
+eyJoaXN0b3J5IjpbMTY3NTkzODk3LDQ4MTE2OTY1NCwxMzk5MD
+IyODMsMzM5Mjk4NzIwLC0xNTE4MTA3MjA2LDE2NDI4NjE5MTks
+MjEwNzI4OTM0OCwtMTAyMzg1OTA5M119
 -->
