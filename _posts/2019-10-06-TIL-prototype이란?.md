@@ -34,8 +34,17 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 	-   **객체의 입장에서 자신의 부모 역할을 하는 프로토타입 객체를 가리키며 함수 객체의 경우  `Function.prototype`를 가리킨다.**
 
 ![enter image description here](/img/prototype_2.png)
+
+
+- prototype 프로퍼티
+
+	-   함수 객체만 가지고 있는 프로퍼티이다.
+	
+	-   **함수 객체가 생성자로 사용될 때 이 함수를 통해 생성될 객체의 부모 역할을 하는 객체(프로토타입 객체)를 가리킨다.**
+
+## 3. constructor 프로퍼티
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxMTY5NjU0LDEzOTkwMjI4MywzMzkyOT
-g3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkxOSwyMTA3Mjg5MzQ4
-LC0xMDIzODU5MDkzXX0=
+eyJoaXN0b3J5IjpbMTQ5NTYzNDkzNiw0ODExNjk2NTQsMTM5OT
+AyMjgzLDMzOTI5ODcyMCwtMTUxODEwNzIwNiwxNjQyODYxOTE5
+LDIxMDcyODkzNDgsLTEwMjM4NTkwOTNdfQ==
 -->
