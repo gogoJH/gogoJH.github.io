@@ -28,9 +28,12 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ![enter image description here](/img/home-bg-geek.jpg)
 
 - [[Prototype]] 
--
+
+	-   함수를 포함한 모든 객체가 가지고 있는 인터널 슬롯이다.
+	
+	-   **객체의 입장에서 자신의 부모 역할을 하는 프로토타입 객체를 가리키며 함수 객체의 경우  `Function.prototype`를 가리킨다.**  그 이유에 대해서는  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTM2ODU3OSwxMzk5MDIyODMsMzM5Mj
+eyJoaXN0b3J5IjpbLTM5NzMzNzUyMCwxMzk5MDIyODMsMzM5Mj
 k4NzIwLC0xNTE4MTA3MjA2LDE2NDI4NjE5MTksMjEwNzI4OTM0
 OCwtMTAyMzg1OTA5M119
 -->
