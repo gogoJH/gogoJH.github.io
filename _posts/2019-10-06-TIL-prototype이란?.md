@@ -25,7 +25,7 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 대신에 __ __proto__ __ 로 부모의 프로퍼티에 접근 할 수 있다 .
 
 ## 2. [[Prototype]] vs prototype 프로퍼티
-![enter image description here](/img/home-bg-geek.jpg)
+![enter image description here](/img/prototype_1.png)
 
 - [[Prototype]] 
 
@@ -33,9 +33,9 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 	
 	-   **객체의 입장에서 자신의 부모 역할을 하는 프로토타입 객체를 가리키며 함수 객체의 경우  `Function.prototype`를 가리킨다.**
 
-
+![enter image description here](/img/prototype_2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzg0NTk1NiwxMzk5MDIyODMsMzM5Mj
-k4NzIwLC0xNTE4MTA3MjA2LDE2NDI4NjE5MTksMjEwNzI4OTM0
-OCwtMTAyMzg1OTA5M119
+eyJoaXN0b3J5IjpbNDgxMTY5NjU0LDEzOTkwMjI4MywzMzkyOT
+g3MjAsLTE1MTgxMDcyMDYsMTY0Mjg2MTkxOSwyMTA3Mjg5MzQ4
+LC0xMDIzODU5MDkzXX0=
 -->
