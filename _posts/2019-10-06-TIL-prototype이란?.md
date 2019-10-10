@@ -49,11 +49,12 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ![enter image description here](/img/prototype_4.png)
 
 
+## 4. prototype 객체의 확장
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODgyODc5MSwxODc1NjE4NDU5LC0xNT
-E5OTEyMjQyLDQ4MTE2OTY1NCwxMzk5MDIyODMsMzM5Mjk4NzIw
-LC0xNTE4MTA3MjA2LDE2NDI4NjE5MTksMjEwNzI4OTM0OCwtMT
-AyMzg1OTA5M119
+eyJoaXN0b3J5IjpbODY2NDE0NjQyLDE4NzU2MTg0NTksLTE1MT
+k5MTIyNDIsNDgxMTY5NjU0LDEzOTkwMjI4MywzMzkyOTg3MjAs
+LTE1MTgxMDcyMDYsMTY0Mjg2MTkxOSwyMTA3Mjg5MzQ4LC0xMD
+IzODU5MDkzXX0=
 -->
