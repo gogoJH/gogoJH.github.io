@@ -60,7 +60,10 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ![enter image description here](https://poiemaweb.com/img/extension_prototype.png)
 
 사실 프로젝트를 진행하면서 객체지향 프로그래밍을 해본 적은 없다.
-사용할 일도 그리 많지 않고,,, 현업에서는 어떻게 사용되고 있는지 구
+사용할 일도 그리 많지 않고,,, 현업에서는 어떻게 사용되고 있는지 궁금하다.
+
+### 끝.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjMzNjIyNCwtMTUzODU1NDk3Ml19
+eyJoaXN0b3J5IjpbLTEwNzA0MTg3NSwtMTUzODU1NDk3Ml19
 -->
