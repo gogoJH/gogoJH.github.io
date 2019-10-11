@@ -58,6 +58,9 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 위의 예에서는 Person.prototype 객체에 메소드 sayHello를 추가하였다. 이때 sayHello 메소드는 프로토타입 체인에 반영된다. 따라서 생성자 함수 Person에 의해 생성된 모든 객체는 프로토타입 체인에 의해 부모객체인 Person.prototype의 메소드를 사용할 수 있게 되었다.
 
 ![enter image description here](https://poiemaweb.com/img/extension_prototype.png)
+
+사실 프로젝트를 진행하면서 객체지향 프로그래밍을 해본 적은 없다.
+사용할 일도 그리 많지 않고,,, 현업에서는 어떻게 사용되고 있는지 구
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg1NTQ5NzJdfQ==
+eyJoaXN0b3J5IjpbLTQzMjMzNjIyNCwtMTUzODU1NDk3Ml19
 -->
