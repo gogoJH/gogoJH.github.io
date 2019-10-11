@@ -9,7 +9,7 @@ catalog: true
 tags:
     - 개발일기
     - JS
-    - 프로젝트
+    - TIL
 ---
 
 ## 1. prototype이란 ? 
@@ -65,5 +65,5 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ### 끝.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA0MTg3NSwtMTUzODU1NDk3Ml19
+eyJoaXN0b3J5IjpbLTE1MzAyMjkwMywtMTUzODU1NDk3Ml19
 -->
