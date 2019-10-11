@@ -22,7 +22,7 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 
 **Prototype 객체의 데이터 프로퍼티는 get 액세스를 위해 상속되어 자식 객체의 프로퍼티처럼 사용할 수 있다. 하지만 set 액세스는 허용되지 않는다.**
 
-![enter image description here](/img/prototype_2.png)
+![enter image description here](/img/prototype_3.png)
 
 대신에 __ __proto__ __ 로 부모의 프로퍼티에 접근 할 수 있다 .
 
@@ -67,6 +67,6 @@ Java, C++과 같은 클래스 기반 객체지향 프로그래밍 언어와 달�
 ### 끝.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzE4NzU0MywtMTUzMDIyOTAzLC0xNT
-M4NTU0OTcyXX0=
+eyJoaXN0b3J5IjpbLTE2NjYwMTU3NTQsMTY1MzE4NzU0MywtMT
+UzMDIyOTAzLC0xNTM4NTU0OTcyXX0=
 -->
