@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "2019.10.16 Trello 프로젝트"
@@ -13,7 +12,7 @@ tags:
     - TIL
 ---
 
-## 새프로젝트 Trello 시작!
+## 새 프로젝트 Trello 시작!
 
 ### 새로 써보는 것들
 - **TypeSript**
@@ -24,5 +23,5 @@ tags:
 구축하고 React + Mobx + TypeScript를 사용해서 프론트, 백단을 만들
 예정이다 .. 잠깐 봤는데 TypeScript 눈에 좀 익어야 될 것 같다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzUwODI4OV19
+eyJoaXN0b3J5IjpbLTEyNjQ3OTc4NTVdfQ==
 -->
