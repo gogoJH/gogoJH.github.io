@@ -8,7 +8,6 @@ header-img: img/post-bg-first.jpg
 catalog: true
 tags:
 	- Trello
-    - 개발일기
     - JS
     - TIL
 ---
@@ -23,5 +22,5 @@ tags:
 구축하고 React + Mobx + TypeScript를 사용해서 프론트, 백단을 만들
 예정이다 .. 잠깐 봤는데 TypeScript 눈에 좀 익어야 될 것 같다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjYwNjA0M119
+eyJoaXN0b3J5IjpbLTExNTg3MDMyNjYsLTY2MjYwNjA0M119
 -->
