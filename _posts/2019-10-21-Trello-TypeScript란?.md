@@ -18,9 +18,11 @@ TypeScript는 Microsoft에서 2012년 발표한 오픈소스로, 정적 타이�
 
 TypeScript는 ES5의 Superset이므로 기존의 자바스크립트(ES5) 문법을 그대로 사용할 수 있다.
 
+---
+
 ###  TypeScript의 장점
 
-#### 정적 타입 지원 
+#### 1. 정적 타입 지원 
 자바스크립트는 코드상으로는 어떤 타입의 인수를 전달하여야 하는지, 어떤 타입의 반환값을 리턴해야 하는지 명확하지 않다.
 ```
 function  sum(a,  b)  {  return  a  +  b;  }  
@@ -43,13 +45,18 @@ assignable to parameter of type 'number'.
 
 이는 코드의 가독성을 높이고 예측할 수 있게 하며 디버깅을 쉽게 한다.
 
-### 도구의 지원
+---
+
+#### 2. 도구의 지원
 
 TypeScript를 사용하는 이유는 여러가지 있지만 가장 큰 장점은 IDE(통합개발환경)를 포함한 다양한 도구의 지원을 받을 수 있다는 것이다. IDE와 같은 도구에 타입 정보를 제공함으로써 높은 수준의 인텔리센스(IntelliSense), 코드 어시스트, 타입 체크, 리팩토링 등을 지원받을 수 있으며 이러한 도구의 지원은 대규모 프로젝트를 위한 필수 요소이기도 하다.
 
-## [#](https://poiemaweb.com/typescript-introduction#23-%EA%B0%95%EB%A0%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%A7%80%EC%9B%90)2.3 강력한 객체지향 프로그래밍 지원
+---
+
+#### 3. 강력한 객체지향 프로그래밍 지원
 
 인터페이스, 제네릭 등과 같은 강력한 객체지향 프로그래밍 지원은 크고 복잡한 프로젝트의 코드 기반을 쉽게 구성할 수 있도록 도우며, Java, C# 등의 클래스 기반 객체지향 언어에 익숙한 개발자가 자바스크립트 프로젝트를 수행하는 데 진입 장벽을 낮추는 효과도 있다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMDY2OTMxXX0=
+eyJoaXN0b3J5IjpbMzAwMDA4OTVdfQ==
 -->
