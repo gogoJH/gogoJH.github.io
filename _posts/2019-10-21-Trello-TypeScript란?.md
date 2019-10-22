@@ -29,7 +29,8 @@ sum('x',  'y');  // 'xy'
 ```
 
 아마도 개발자의 의도는 숫자의 합을 구하려 한 것이였겠지.
-dlfj그래서 TypeScript wjdq
+
+이러한 상황 때문에 TypeScript는 정적 타입을 지원하므로 컴파일 단계에서 오류를 포착할 수 있는 장점이 있다.
 ```
 function  sum(a:  number,  b:  number) {  
 	return  a  +  b;  
@@ -39,6 +40,8 @@ sum('x',  'y');
 // error TS2345: Argument of type '"x"' is not 
 assignable to parameter of type 'number'.
 ```
+
+이는 코드의 가독성을 높이고 예측할 수 있게 하며 디버깅을 쉽게 한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYwODQ5NjVdfQ==
+eyJoaXN0b3J5IjpbLTgzNTc1ODA4N119
 -->
