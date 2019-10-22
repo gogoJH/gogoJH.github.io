@@ -21,13 +21,15 @@ TypeScript는 ES5의 Superset이므로 기존의 자바스크립트(ES5) 문법�
 ###  TypeScript의 장점
 
 #### 정적 타입 지원 
-
+자바스크립트는 코드상으로는 어떤 타입의 인수를 전달하여야 하는지, 어떤 타입의 반환값을 리턴해야 하는지 명확하지 않다.
 ```
 function  sum(a,  b)  {  return  a  +  b;  }  
 
 sum('x',  'y');  // 'xy' 
 ```
 
+아마도 개발자의 의도는 숫자의 합을 구하려 한 것이였겠지.
+dlfj그래서 TypeScript wjdq
 ```
 function  sum(a:  number,  b:  number) {  
 	return  a  +  b;  
@@ -38,5 +40,5 @@ sum('x',  'y');
 assignable to parameter of type 'number'.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzA2MjU2NV19
+eyJoaXN0b3J5IjpbLTIwMTYwODQ5NjVdfQ==
 -->
