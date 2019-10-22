@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "2019.10.18 Trello TypeScript"
+title:      "2019.10.18 TypeScript"
 subtitle:   "아 .. 머리 아파 .."
 date:       2019-10-17
 author:     gogoJH
@@ -13,17 +13,13 @@ tags:
 ---
 ## TypeScirpt .. 
 
-### Setting 한 것들.
-- 프론트 S3
-- 서버 EC2
-- DB RDS
-
-참 .. 프로젝트를 시작할 때마다 느끼는 거지만 셋팅은 처음에만
-잠깐 하다보니까 할 때마다 새로운 느낌이다.
-깃헙 레파지토리도 다 만들었겠다.
-초기 Hello world도 봤겠다. 열심히 만들기만 하는 되는 부분인가 ~
+### 좋은거 맞는거지 .. 하하 ;;
+요즘 구인구직 요건에 보면 타입스크립트 경험자를 우대하더라.
+그래서 이번 프로젝트는 백이건 프론트건 전부 타입스크립트를 도입해서 진행해보려하는데 .. 확실히 안쓰던 거라서 .. 문법도 눈에 안익고 ..
+이사람 저사람 쓰는 방법이 다 달라서 .. ㅠㅠ
+백은 그래도 낫던데 .. 이넘의 React 
 
 ### 끝
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzE3ODM2MV19
+eyJoaXN0b3J5IjpbMjEwNDM2MjgyOV19
 -->
