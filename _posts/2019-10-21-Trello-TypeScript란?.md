@@ -28,7 +28,15 @@ function  sum(a,  b)  {  return  a  +  b;  }
 sum('x',  'y');  // 'xy' 
 ```
 
+```
+function  sum(a:  number,  b:  number) {  
+	return  a  +  b;  
+}  
 
+sum('x',  'y');  
+// error TS2345: Argument of type '"x"' is not 
+assignable to parameter of type 'number'.
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTE4NTAwNF19
+eyJoaXN0b3J5IjpbMTkwNzA2MjU2NV19
 -->
