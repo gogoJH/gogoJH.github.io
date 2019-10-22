@@ -41,7 +41,10 @@ tags:
 
 Code states immersive course를 시작하면서 그동안 몰랐던 많은 것들 git, slack 등등을 써보면서 그동안 개발일 하겠다면서 몰했는지 싶기도 하고 방문해보면 정말 열정적으로 코딩하고 있는 많은 사람들을 볼 수 있는데 방문 때마다 동기부여가 되곤 했다. 
 
-4주 프로젝트가 끝나고 지금도 혼자서 인터넷과 공식 
+4주 프로젝트가 끝나고 지금도 혼자서 인터넷과 공식 reference들을 찾아보며
+새로운 기술들을 습득하고 있는 날 보게 되는데 확실히 2년 전과는 다른거 같다.
+
+이제 어서 빨리 현업에 가서 내가 몰랐던 부분들을 경험하고 성장하고 싶다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ4NjExNzgsLTM2MjM0MTI2XX0=
+eyJoaXN0b3J5IjpbNTY4NzUxNDY5LC0zNjIzNDEyNl19
 -->
