@@ -18,6 +18,7 @@ TypeScript는 Microsoft에서 2012년 발표한 오픈소스로, 정적 타이�
 
 TypeScript는 ES5의 Superset이므로 기존의 자바스크립트(ES5) 문법을 그대로 사용할 수 있다.
 
+``function  sum(a,  b)  {  return  a  +  b;  }  sum('x',  'y');  // 'xy' ``
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjI3ODY1OV19
+eyJoaXN0b3J5IjpbMTE3Njg4NjQ0XX0=
 -->
