@@ -57,6 +57,7 @@ TypeScript를 사용하는 이유는 여러가지 있지만 가장 큰 장점은
 
 인터페이스, 제네릭 등과 같은 강력한 객체지향 프로그래밍 지원은 크고 복잡한 프로젝트의 코드 기반을 쉽게 구성할 수 있도록 도우며, Java, C# 등의 클래스 기반 객체지향 언어에 익숙한 개발자가 자바스크립트 프로젝트를 수행하는 데 진입 장벽을 낮추는 효과도 있다.
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwMDA4OTVdfQ==
+eyJoaXN0b3J5IjpbNzk5Njc0NzMzXX0=
 -->
