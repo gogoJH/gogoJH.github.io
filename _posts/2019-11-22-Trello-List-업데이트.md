@@ -2,7 +2,7 @@
 layout:     post
 title:      "2019.11.22 List 수정 업데이트 "
 subtitle:   "List 수정시 바로 업데이트"
-date:       2019-11-21
+date:       2019-11-22
 author:     gogoJH
 header-img: img/home-bg-geek.jpg
 catalog: true
@@ -28,5 +28,5 @@ List 상세 만들기.
 List 수정시 바로 업데이트
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzODgzNDE1XX0=
+eyJoaXN0b3J5IjpbLTQ3OTkyNzQwMCwzNDM4ODM0MTVdfQ==
 -->
