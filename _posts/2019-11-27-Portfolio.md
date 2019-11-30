@@ -20,7 +20,6 @@ tags:
 <br>
 
 ## Projects !
-&nbsp;
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
@@ -65,9 +64,9 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTkyMzQ2NTAsLTEyMzQ3MTc2NjgsLT
-g5NjM4MDI3MSwxMjQ5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIy
-ODE5MzksMjA2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0Nz
-I1LC0xMDg3NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5
-MjU5NDA4NjQsMTk5MjQzOTk4NF19
+eyJoaXN0b3J5IjpbNDYzMjU2MjQwLC0xMjM0NzE3NjY4LC04OT
+YzODAyNzEsMTI0OTg2NTYyNSwtNTcxNjk1NzM2LC0xNTcyMjgx
+OTM5LDIwNjc1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3NDcyNS
+wtMTA4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NTcsOTI1
+OTQwODY0LDE5OTI0Mzk5ODRdfQ==
 -->
