@@ -11,7 +11,8 @@ tags:
     - 구직
     - 프로젝트
 ---
+## 개발자? 기발자!가 되고 싶은 조진혁 입니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjQzOTk4NF19
+eyJoaXN0b3J5IjpbNTI0NDcwNTc4LDE5OTI0Mzk5ODRdfQ==
 -->
