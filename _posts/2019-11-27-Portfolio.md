@@ -23,7 +23,6 @@ tags:
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.
-	
 <br>
 
 *  ***CupHolder***
@@ -46,30 +45,39 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
-## Code States - 수료
 
-2019년 4월 - 2019년 6월 서울특별시 강남구
+## Luxent, 경기도 남양주시 — 대리
 
-Advanced Software Engineering, Immersive Program
+2017년 2월 - 2018년 2월
 
-[CodeStates Immersive Course](https://bit.ly/2H8ZkVS)
+-   네이버블로그, 검색광고, SNS 광고, 간단한 웹사이트 수정.
+    
+-   서비스 소개 영상 제작, 구매 상세페이지 작성.
+    
 
-  
+## E&H, 충남 아산시 — 대리
 
-## 쌍용교육센터 -  수료
+2014년 2월 - 2016년 2월
 
-2016년 2월 - 2016년 10월 서울특별시 강남구
+-   TSP(터치스크린패널) 생산관리.
+    
+-   첫 사업 실패 후에 부채 상환을 위해 근무.
+    
+-   24시간 중 14시간씩 2교대로 일하다 보니 어떻게 해야 어려움에 봉착했을때 나 자신을 컨트롤 할 수 있는지 경험해보았습니다.
+    
 
-웹어플리케이션 개발자 양성 과정(Java, Spring Framework)
+## Style&Car — 팀장
 
-  
+2011년 9월 - 2013년 12월
 
-## 수택고등학교  - 졸업
-
-2006년 3월 - 2009년 2월 경기도 구리시
+-   중고차 매입, 판매
+    
+-   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
+    
+-   자기 사업을 해봤기 떄문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTg2NTYyNSwtNTcxNjk1NzM2LC0xNT
-cyMjgxOTM5LDIwNjc1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3
-NDcyNSwtMTA4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NT
-csOTI1OTQwODY0LDE5OTI0Mzk5ODRdfQ==
+eyJoaXN0b3J5IjpbLTg5NjM4MDI3MSwxMjQ5ODY1NjI1LC01Nz
+E2OTU3MzYsLTE1NzIyODE5MzksMjA2NzU0NDU1NSwxMjA3Mzgw
+MDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNjI3LDE3ODU0NTQwMz
+UsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5MjQzOTk4NF19
 -->
