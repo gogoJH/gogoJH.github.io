@@ -18,9 +18,7 @@ tags:
 개발에서 그치지않고 내가 ***기획*** 하고 내가 ***서비스*** 하는 그 날까지 !
 <br>
 ## Projects !
-
-<br>
-
+&nbsp;
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
@@ -47,25 +45,25 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
-#### Luxent, 경기도 남양주시 — 대리
+##### Luxent, 경기도 남양주시 — 대리
 2017년 2월 - 2018년 2월
 -   네이버블로그, 검색광고, SNS 광고, 간단한 웹사이트 수정.
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
-#### E&H, 충남 아산시 — 대리
+##### E&H, 충남 아산시 — 대리
 2014년 2월 - 2016년 2월
 
 -   TSP(터치스크린패널) 생산관리.
 -   첫 사업 실패 후에 부채 상환을 위해 근무
 -   24시간 중 14시간씩 2교대로 일하다 보니 어떻게 해야 어려움에 봉착했을때 나 자신을 컨트롤 할 수 있는지 경험해보았습니다.
     
-#### Style&Car — 팀장
+##### Style&Car — 팀장
 2011년 9월 - 2013년 12월
 -   중고차 매입, 판매
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDg1NTI0NywtMTIzNDcxNzY2OCwtOD
+eyJoaXN0b3J5IjpbMTcyNzQ1NjIwMiwtMTIzNDcxNzY2OCwtOD
 k2MzgwMjcxLDEyNDk4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4
 MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3Mj
 UsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDky
