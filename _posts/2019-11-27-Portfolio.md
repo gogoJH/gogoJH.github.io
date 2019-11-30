@@ -18,6 +18,9 @@ tags:
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
 ### Projects
+* Trello
+	[![ToyProject]()]()
+
 * ModuTable
 	 [![4주 프로젝트](/img/modutable.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click")
 	자신의 공간을 공유하고 초대받으며 같이 식사를 할 수 있도록 
@@ -27,7 +30,7 @@ tags:
 	[![2주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "2주 프로젝트 Click")
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODgzNzQ3MjUsLTEwODc0NjI2MjcsMT
-c4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NCwxOTkyNDM5
-OTg0XX0=
+eyJoaXN0b3J5IjpbMTIwNzM4MDAxOSwtMTg4ODM3NDcyNSwtMT
+A4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NTcsOTI1OTQw
+ODY0LDE5OTI0Mzk5ODRdfQ==
 -->
