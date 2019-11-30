@@ -20,7 +20,7 @@ tags:
 ### Projects !
 
 *  ***ModuTable***
-	[![4주 프로젝트](/img/modutable.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
+	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.
 	
@@ -45,8 +45,8 @@ tags:
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMD
-Y3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0
-NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NC
-wxOTkyNDM5OTg0XX0=
+eyJoaXN0b3J5IjpbLTEwMjc4NDI2OTQsLTU3MTY5NTczNiwtMT
+U3MjI4MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgz
+NzQ3MjUsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3ND
+U3LDkyNTk0MDg2NCwxOTkyNDM5OTg0XX0=
 -->
