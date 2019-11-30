@@ -24,9 +24,9 @@ tags:
 	도와주는 플랫폼 서비스.
 
 * CupHolder
-	![https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/](/img/cupholder.png)
+	[![2주](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNT
-k0MDg2NCwxOTkyNDM5OTg0XX0=
+eyJoaXN0b3J5IjpbMTI3OTU3MzYsMTc4NTQ1NDAzNSwtNTAyOD
+M3NDU3LDkyNTk0MDg2NCwxOTkyNDM5OTg0XX0=
 -->
