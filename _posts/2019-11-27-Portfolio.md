@@ -24,8 +24,8 @@ tags:
 	도와주는 플랫폼 서비스.
 
 * CupHolder
-	![4주 모두테이블](/img/cupholder.png)
+	![](/img/cupholder.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDExNjE5NywtNTAyODM3NDU3LDkyNT
-k0MDg2NCwxOTkyNDM5OTg0XX0=
+eyJoaXN0b3J5IjpbMTcwOTA2MDMxLC01MDI4Mzc0NTcsOTI1OT
+QwODY0LDE5OTI0Mzk5ODRdfQ==
 -->
