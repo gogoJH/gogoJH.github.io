@@ -19,13 +19,13 @@ tags:
 
 ### Projects
 * ModuTable
-	 ![4주 모두테이블](/img/modutable.png)
+	 ![](/img/modutable.png)
 	자신의 공간을 공유하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.
 
 * CupHolder
 	![4주 모두테이블](/img/cupholder.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5Mj
-QzOTk4NF19
+eyJoaXN0b3J5IjpbLTgxNDExNjE5NywtNTAyODM3NDU3LDkyNT
+k0MDg2NCwxOTkyNDM5OTg0XX0=
 -->
