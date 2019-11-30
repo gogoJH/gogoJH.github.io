@@ -16,7 +16,9 @@ tags:
 현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
 평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
 개발에서 그치지않고 내가 ***기획*** 하고 내가 ***서비스*** 하는 그 날까지 !
+
 <br>
+
 ## Projects !
 &nbsp;
 *  ***ModuTable***
@@ -63,9 +65,9 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNzQ1NjIwMiwtMTIzNDcxNzY2OCwtOD
-k2MzgwMjcxLDEyNDk4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4
-MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3Mj
-UsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDky
-NTk0MDg2NCwxOTkyNDM5OTg0XX0=
+eyJoaXN0b3J5IjpbLTE1MTkyMzQ2NTAsLTEyMzQ3MTc2NjgsLT
+g5NjM4MDI3MSwxMjQ5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIy
+ODE5MzksMjA2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0Nz
+I1LC0xMDg3NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5
+MjU5NDA4NjQsMTk5MjQzOTk4NF19
 -->
