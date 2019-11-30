@@ -36,6 +36,7 @@ tags:
 	[![ToyProject](/img/Trello.png)](https://gogojh.github.io/2019/11/25/Trello-%EC%86%8C%EA%B0%9C/ "Trello 프로젝트 Click!")
 	***일정관리*** 를 도와주는 말 그대로 Trello !
 
+<br>
 
 ### About
 
@@ -44,8 +45,8 @@ tags:
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY4MDAxNDgsLTE1NzIyODE5MzksMj
-A2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3
-NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4Nj
-QsMTk5MjQzOTk4NF19
+eyJoaXN0b3J5IjpbMTEyMjYxMjEzNiwtMTU3MjI4MTkzOSwyMD
+Y3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0
+NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NC
+wxOTkyNDM5OTg0XX0=
 -->
