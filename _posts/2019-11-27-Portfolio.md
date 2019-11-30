@@ -12,9 +12,9 @@ tags:
     - 프로젝트
 ---
 ## 개발자? 기발자!가 되고 싶은 조진혁 입니다.
-새로운 경험은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.
-현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요. 
-평생을 경험해도 시간이 모자를꺼 같으니까요 !
+새로운 경험은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.<br>
+현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
+평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
 ### Projects
@@ -38,8 +38,8 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzIyODE5MzksMjA2NzU0NDU1NSwxMj
-A3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNjI3LDE3ODU0
-NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5MjQzOTk4NF
-19
+eyJoaXN0b3J5IjpbLTE0Nzk0ODQzNDksLTE1NzIyODE5MzksMj
+A2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3
+NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4Nj
+QsMTk5MjQzOTk4NF19
 -->
