@@ -17,7 +17,7 @@ tags:
 평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
-### Projects !
+## Projects !
 
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -37,7 +37,7 @@ tags:
 
 <br>
 
-### About !
+## About !
 
 2번의 ***자기사업*** 과 ***B2C*** 영업 경험을 토대로 ***다이아몬드멘탈*** 을
 보유하게된 조진혁입니다 .<br>
@@ -46,7 +46,7 @@ tags:
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
 
-## Luxent, 경기도 남양주시 — 대리
+### Luxent, 경기도 남양주시 — 대리
 
 2017년 2월 - 2018년 2월
 
@@ -76,8 +76,9 @@ tags:
     
 -   자기 사업을 해봤기 떄문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjM4MDI3MSwxMjQ5ODY1NjI1LC01Nz
-E2OTU3MzYsLTE1NzIyODE5MzksMjA2NzU0NDU1NSwxMjA3Mzgw
-MDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNjI3LDE3ODU0NTQwMz
-UsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5MjQzOTk4NF19
+eyJoaXN0b3J5IjpbMTA3NzIyNjIzNCwtODk2MzgwMjcxLDEyND
+k4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMDY3NTQ0
+NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0NjI2Mj
+csMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NCwxOTky
+NDM5OTg0XX0=
 -->
