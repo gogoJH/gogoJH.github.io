@@ -45,8 +45,30 @@ tags:
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
+
+## Code States - 수료
+
+2019년 4월 - 2019년 6월 서울특별시 강남구
+
+Advanced Software Engineering, Immersive Program
+
+[https://bit.ly/2H8ZkVS](https://bit.ly/2H8ZkVS)
+
+  
+
+## 쌍용교육센터 -  수료
+
+2016년 2월 - 2016년 10월 서울특별시 강남구
+
+웹어플리케이션 개발자 양성 과정(Java, Spring Framework)
+
+  
+
+## 수택고등학교  - 졸업
+
+2006년 3월 - 2009년 2월 경기도 구리시
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzc0ODAwMCwtNTcxNjk1NzM2LC0xNT
+eyJoaXN0b3J5IjpbMTM3NDM2NDMxMiwtNTcxNjk1NzM2LC0xNT
 cyMjgxOTM5LDIwNjc1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3
 NDcyNSwtMTA4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NT
 csOTI1OTQwODY0LDE5OTI0Mzk5ODRdfQ==
