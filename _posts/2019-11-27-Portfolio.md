@@ -19,7 +19,7 @@ tags:
 
 ### Projects
 * Trello
-	[![ToyProject]()]()
+	[![ToyProject](/img/Trello.png)](https://gogojh.github.io/2019/11/25/Trello-%EC%86%8C%EA%B0%9C/)
 <br>
 
 * ModuTable
@@ -33,8 +33,8 @@ tags:
 	스타벅스의 "SirenOrder"처럼 손님과 매장 간의 주문처리시스템.
 	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMjI0OTg0LDIwNjc1NDQ1NTUsMTIwNz
-M4MDAxOSwtMTg4ODM3NDcyNSwtMTA4NzQ2MjYyNywxNzg1NDU0
-MDM1LC01MDI4Mzc0NTcsOTI1OTQwODY0LDE5OTI0Mzk5ODRdfQ
-==
+eyJoaXN0b3J5IjpbLTExNTE2MTE5MjAsMjA2NzU0NDU1NSwxMj
+A3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNjI3LDE3ODU0
+NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5MjQzOTk4NF
+19
 -->
