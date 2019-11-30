@@ -19,6 +19,7 @@ tags:
 
 ## Projects !
 
+
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
@@ -74,9 +75,9 @@ tags:
     
 -   자기 사업을 해봤기 떄문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTU5Mzk2NiwtODk2MzgwMjcxLDEyND
-k4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMDY3NTQ0
-NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0NjI2Mj
-csMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NCwxOTky
-NDM5OTg0XX0=
+eyJoaXN0b3J5IjpbLTEyMzQ3MTc2NjgsLTg5NjM4MDI3MSwxMj
+Q5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIyODE5MzksMjA2NzU0
+NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNj
+I3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5
+MjQzOTk4NF19
 -->
