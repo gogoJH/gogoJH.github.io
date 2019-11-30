@@ -18,6 +18,7 @@ tags:
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
 ### Projects
+<br>
 
 * ModuTable
 	[![4주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -38,7 +39,7 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk0ODQzNDksLTE1NzIyODE5MzksMj
+eyJoaXN0b3J5IjpbLTE3ODExNTE2MTcsLTE1NzIyODE5MzksMj
 A2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3
 NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4Nj
 QsMTk5MjQzOTk4NF19
