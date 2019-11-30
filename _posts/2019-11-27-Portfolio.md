@@ -19,13 +19,14 @@ tags:
 
 ### Projects
 * ModuTable
-	 ![](/img/modutable.png)
+	 ![https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/](/img/modutable.png)
 	자신의 공간을 공유하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.
 
 * CupHolder
-	![](/img/cupholder.png)
+	![https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/](/img/cupholder.png)
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTA2MDMxLC01MDI4Mzc0NTcsOTI1OT
-QwODY0LDE5OTI0Mzk5ODRdfQ==
+eyJoaXN0b3J5IjpbMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNT
+k0MDg2NCwxOTkyNDM5OTg0XX0=
 -->
