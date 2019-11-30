@@ -12,13 +12,13 @@ tags:
     - 프로젝트
 ---
 ## 개발자? 기발자!가 되고 싶은 조진혁 입니다.
-새로운 경험은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.<br>
+***새로운 경험*** 은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.<br>
 현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
 평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
 ### Projects
-<br>
+<p>
 
 * ModuTable
 	[![4주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -39,7 +39,7 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExNTE2MTcsLTE1NzIyODE5MzksMj
+eyJoaXN0b3J5IjpbLTE1NzUwNzgwMDEsLTE1NzIyODE5MzksMj
 A2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3
 NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4Nj
 QsMTk5MjQzOTk4NF19
