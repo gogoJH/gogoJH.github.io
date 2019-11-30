@@ -24,13 +24,15 @@ tags:
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
-	도와주는 플랫폼 서비스.
+	도와주는 플랫폼 서비스.<br>
+	(이미지를 클릭하시면 해당 소개 페이지로 이동합니다.)
 	
 	<br>
 
 *  ***CupHolder***
 	[![2주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "2주 프로젝트 Click!")
-	스타벅스의 ***"SirenOrder"*** 처럼 손님과 매장 간의 주문처리시스템.
+	스타벅스의 ***"SirenOrder"*** 처럼 손님과 매장 간의 주문처리시스템.<br>
+		(이미지를 클릭하시면 해당 소개 페이지로 이동합니다.)
 	
 	<br>
 	
@@ -65,7 +67,7 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzQyNDE5MCwtMTIzNDcxNzY2OCwtOD
+eyJoaXN0b3J5IjpbMjA1NDYzODY4OCwtMTIzNDcxNzY2OCwtOD
 k2MzgwMjcxLDEyNDk4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4
 MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3Mj
 UsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDky
