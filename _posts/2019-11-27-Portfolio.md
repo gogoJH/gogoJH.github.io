@@ -52,7 +52,7 @@ tags:
 
 Advanced Software Engineering, Immersive Program
 
-[https://bit.ly/2H8ZkVS](https://bit.ly/2H8ZkVS)
+[CodeStates Immersive Course](https://bit.ly/2H8ZkVS)
 
   
 
@@ -68,7 +68,7 @@ Advanced Software Engineering, Immersive Program
 
 2006년 3월 - 2009년 2월 경기도 구리시
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDM2NDMxMiwtNTcxNjk1NzM2LC0xNT
+eyJoaXN0b3J5IjpbMTI0OTg2NTYyNSwtNTcxNjk1NzM2LC0xNT
 cyMjgxOTM5LDIwNjc1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3
 NDcyNSwtMTA4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NT
 csOTI1OTQwODY0LDE5OTI0Mzk5ODRdfQ==
