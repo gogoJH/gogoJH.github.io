@@ -40,12 +40,12 @@ tags:
 
 ### About !
 
-2번의 자기사업과 B2C 영업 경험을 토대로 다이아모든 멘탈을
+2번의 ***자기사업*** 과 ***B2C*** 영업 경험을 토대로 ***다이아몬드멘탈*** 을
 보유하게된 조진혁입니다 .<br>
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc4NDI2OTQsLTU3MTY5NTczNiwtMT
+eyJoaXN0b3J5IjpbLTE3NTQ3NTkyNjAsLTU3MTY5NTczNiwtMT
 U3MjI4MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgz
 NzQ3MjUsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3ND
 U3LDkyNTk0MDg2NCwxOTkyNDM5OTg0XX0=
