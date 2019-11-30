@@ -15,8 +15,8 @@ tags:
 ***새로운 경험*** 은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.<br>
 현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
 평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
-개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
-
+개발에서 그치지않고 내가 ***기획*** 하고 내가 ***서비스*** 하는 그 날까지 !
+<br>
 ## Projects !
 	 
 
@@ -64,7 +64,7 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMzI1NDU3LC0xMjM0NzE3NjY4LC04OT
+eyJoaXN0b3J5IjpbNjc5NDU0ODgxLC0xMjM0NzE3NjY4LC04OT
 YzODAyNzEsMTI0OTg2NTYyNSwtNTcxNjk1NzM2LC0xNTcyMjgx
 OTM5LDIwNjc1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3NDcyNS
 wtMTA4NzQ2MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NTcsOTI1
