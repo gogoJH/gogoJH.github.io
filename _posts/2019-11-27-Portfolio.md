@@ -21,18 +21,18 @@ tags:
 
 * ModuTable
 	[![4주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
-	자신의 공간을 공유하고 초대받으며 같이 식사를 할 수 있도록 
+	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.
 	
 <br>
 
-* CupHolder
+*  ***CupHolder***
 	[![2주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "2주 프로젝트 Click!")
-	스타벅스의 "SirenOrder"처럼 손님과 매장 간의 주문처리시스템.
+	스타벅스의 ***"SirenOrder"*** 처럼 손님과 매장 간의 주문처리시스템.
 	
 	<br>
 	
-* Trello
+*  ***Trello***
 	[![ToyProject](/img/Trello.png)](https://gogojh.github.io/2019/11/25/Trello-%EC%86%8C%EA%B0%9C/ "Trello 프로젝트 Click!")
 	일정관리를 도와주는 말 그대로 Trello !
 
@@ -44,8 +44,8 @@ tags:
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NjUzMTk3LC0xNTcyMjgxOTM5LDIwNj
-c1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3NDcyNSwtMTA4NzQ2
-MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NTcsOTI1OTQwODY0LD
-E5OTI0Mzk5ODRdfQ==
+eyJoaXN0b3J5IjpbLTE0MDczMjM0NDMsLTE1NzIyODE5MzksMj
+A2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3
+NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4Nj
+QsMTk5MjQzOTk4NF19
 -->
