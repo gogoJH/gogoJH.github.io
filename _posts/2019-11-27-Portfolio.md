@@ -39,8 +39,7 @@ tags:
 
 ## About !
 
-2번의 ***자기사업*** 과 ***B2C*** 영업 경험을 토대로 ***다이아몬드멘탈*** 을
-보유하게된 조진혁입니다 .<br>
+***자기사업*** 과 ***B2C*** 영업 경험을 토대로 ***다이아몬드멘탈*** 을 보유하게된 조진혁입니다 .<br>
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
@@ -76,9 +75,9 @@ tags:
     
 -   자기 사업을 해봤기 떄문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzIyNjIzNCwtODk2MzgwMjcxLDEyND
-k4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMDY3NTQ0
-NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0NjI2Mj
-csMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NCwxOTky
-NDM5OTg0XX0=
+eyJoaXN0b3J5IjpbLTE5NTA2NTAzNjQsLTg5NjM4MDI3MSwxMj
+Q5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIyODE5MzksMjA2NzU0
+NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNj
+I3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5
+MjQzOTk4NF19
 -->
