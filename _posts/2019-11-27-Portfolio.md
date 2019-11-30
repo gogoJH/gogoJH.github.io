@@ -17,7 +17,7 @@ tags:
 평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
 개발에서 그치지않고 내가 기획하고 내가 서비스하는 그 날까지 !
 
-### Projects
+### Projects !
 
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable.png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -38,14 +38,14 @@ tags:
 
 <br>
 
-### About
+### About !
 
 2번의 자기사업과 B2C 영업 경험을 토대로 다이아모든 멘탈을
 보유하게된 조진혁입니다 .<br>
 웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
 있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjYxMjEzNiwtMTU3MjI4MTkzOSwyMD
+eyJoaXN0b3J5IjpbLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMD
 Y3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0
 NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NC
 wxOTkyNDM5OTg0XX0=
