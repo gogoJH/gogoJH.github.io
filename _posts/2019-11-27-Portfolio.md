@@ -46,7 +46,6 @@ tags:
 
 
 ### Luxent, 경기도 남양주시 — 대리
-
 2017년 2월 - 2018년 2월
 
 -   네이버블로그, 검색광고, SNS 광고, 간단한 웹사이트 수정.
@@ -54,7 +53,7 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 
-## E&H, 충남 아산시 — 대리
+### E&H, 충남 아산시 — 대리
 
 2014년 2월 - 2016년 2월
 
@@ -65,7 +64,7 @@ tags:
 -   24시간 중 14시간씩 2교대로 일하다 보니 어떻게 해야 어려움에 봉착했을때 나 자신을 컨트롤 할 수 있는지 경험해보았습니다.
     
 
-## Style&Car — 팀장
+### Style&Car — 팀장
 
 2011년 9월 - 2013년 12월
 
@@ -75,9 +74,9 @@ tags:
     
 -   자기 사업을 해봤기 떄문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA2NTAzNjQsLTg5NjM4MDI3MSwxMj
-Q5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIyODE5MzksMjA2NzU0
-NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0NzI1LC0xMDg3NDYyNj
-I3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5MjU5NDA4NjQsMTk5
-MjQzOTk4NF19
+eyJoaXN0b3J5IjpbMTI1OTU5Mzk2NiwtODk2MzgwMjcxLDEyND
+k4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4MTkzOSwyMDY3NTQ0
+NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3MjUsLTEwODc0NjI2Mj
+csMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDkyNTk0MDg2NCwxOTky
+NDM5OTg0XX0=
 -->
