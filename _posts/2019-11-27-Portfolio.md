@@ -41,9 +41,10 @@ tags:
 
 2번의 자기사업과 B2C 영업 경험을 토대로 다이아모든 멘탈을
 보유하게된 조진혁입니다 .<br>
- 
+웹서비스의 최신 트렌드를 쫒고 배우기를 멈추지 않으려 노력하고
+있습니다. 개발자에서 끝나지 않고 기발자로써 성장해가려합니다. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNjk3NTA2LC0xNTcyMjgxOTM5LDIwNj
+eyJoaXN0b3J5IjpbNjU0NjUzMTk3LC0xNTcyMjgxOTM5LDIwNj
 c1NDQ1NTUsMTIwNzM4MDAxOSwtMTg4ODM3NDcyNSwtMTA4NzQ2
 MjYyNywxNzg1NDU0MDM1LC01MDI4Mzc0NTcsOTI1OTQwODY0LD
 E5OTI0Mzk5ODRdfQ==
