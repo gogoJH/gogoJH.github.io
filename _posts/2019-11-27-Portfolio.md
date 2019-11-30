@@ -18,7 +18,8 @@ tags:
 개발에서 그치지않고 내가 ***기획*** 하고 내가 ***서비스*** 하는 그 날까지 !
 <br>
 ## Projects !
-	 <br>
+
+<br>
 
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -64,9 +65,9 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk2OTE3MjksLTEyMzQ3MTc2NjgsLT
-g5NjM4MDI3MSwxMjQ5ODY1NjI1LC01NzE2OTU3MzYsLTE1NzIy
-ODE5MzksMjA2NzU0NDU1NSwxMjA3MzgwMDE5LC0xODg4Mzc0Nz
-I1LC0xMDg3NDYyNjI3LDE3ODU0NTQwMzUsLTUwMjgzNzQ1Nyw5
-MjU5NDA4NjQsMTk5MjQzOTk4NF19
+eyJoaXN0b3J5IjpbLTI4NDg1NTI0NywtMTIzNDcxNzY2OCwtOD
+k2MzgwMjcxLDEyNDk4NjU2MjUsLTU3MTY5NTczNiwtMTU3MjI4
+MTkzOSwyMDY3NTQ0NTU1LDEyMDczODAwMTksLTE4ODgzNzQ3Mj
+UsLTEwODc0NjI2MjcsMTc4NTQ1NDAzNSwtNTAyODM3NDU3LDky
+NTk0MDg2NCwxOTkyNDM5OTg0XX0=
 -->
