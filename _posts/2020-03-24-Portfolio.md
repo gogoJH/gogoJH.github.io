@@ -29,7 +29,7 @@ tags:
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	
-	<br>
+	<br><br>
 	
 *  ***HiikMax***
 	[![HiikMax MobileWeb ](/img/hiikmax .png)](https://hiikmax.com/trading/btchic "Hiikmax 프로젝트 Click!")
@@ -38,7 +38,7 @@ tags:
 	후 런칭 했습니다. 프론트 쪽 100% 작업했고, 기존 기능 코드들을 많이 사용했습니다. 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	
-	<br>
+	<br><br>
 	
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -46,14 +46,14 @@ tags:
 	도와주는 플랫폼 서비스.<br>
 	(이미지를 클릭하시면 해당 소개 페이지로 이동합니다.)
 	
-	<br>
+	<br><br>
 	
 *  ***CupHolder***
 	[![2주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "2주 프로젝트 Click!")
 	스타벅스의 ***"SirenOrder"*** 처럼 손님과 매장 간의 주문처리시스템.<br>
 	(이미지를 클릭하시면 해당 소개 페이지로 이동합니다.)
 	
-	<br>
+	<br><br>
 	
 *  ***Trello***
 	[![ToyProject](/img/Trello.png)](https://gogojh.github.io/2019/11/25/Trello-%EC%86%8C%EA%B0%9C/ "Trello 프로젝트 Click!")
@@ -86,6 +86,6 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU1NDMxMzcsLTI2OTE3ODQ4NCwxMz
-U3Mzc2MTM4XX0=
+eyJoaXN0b3J5IjpbODA4NzY0Nzk1LC0yNjkxNzg0ODQsMTM1Nz
+M3NjEzOF19
 -->
