@@ -22,7 +22,7 @@ tags:
 ## Projects !
 *  ***HiikPay***
 	[![HiikMax MobileWeb 작업](/img/hiikmax .png)](https://hiikpay.net/intro "HiikPay 프로젝트 Click")
-	rj
+	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능한  
 	 
 	<br>
 *  ***HiikMax***
@@ -78,5 +78,5 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjY4NzAzN119
+eyJoaXN0b3J5IjpbLTUxMDEyMjE2MF19
 -->
