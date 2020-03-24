@@ -22,7 +22,7 @@ tags:
 ## Projects !
 *  ***HiikPay***
 	[![HiikMax MobileWeb 작업](/img/hiikmax .png)](https://hiikpay.net/intro "HiikPay 프로젝트 Click")
-	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능한  
+	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능하 
 	 
 	<br>
 *  ***HiikMax***
@@ -30,6 +30,7 @@ tags:
 	런칭 한달 전에 입사했으며, 반응형 웹으로 작업 되어있던 사이트를 모바일에서
 	스크롤 문제로 사용이 어렵다는 판단하에 모바일 접속시 화면들을 모두 리디자인
 	후 런칭 했습니다. 프론트 쪽 100% 작업했고, 기존 기능 코드들을 많이 사용했습니다. 
+	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br>
 	
 *  ***ModuTable***
@@ -78,5 +79,5 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDEyMjE2MF19
+eyJoaXN0b3J5IjpbMTU2MTYwODA0NV19
 -->
