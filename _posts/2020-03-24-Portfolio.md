@@ -22,25 +22,23 @@ tags:
 ## Projects !
 *  ***HiikPay***
 	[![HiikMax MobileWeb 작업](/img/hiikmax .png)](https://hiikpay.net/intro "HiikPay 프로젝트 Click")
-	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능하 
+	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능하게 하기 위해서
+	앱 개발을 시작했고 , 한달 정도 
 	 
 	<br>
 *  ***HiikMax***
 	[![HiikMax MobileWeb 작업](/img/hiikmax .png)](https://hiikmax.com/trading/btchic "Hiikmax 프로젝트 Click!")
 	런칭 한달 전에 입사했으며, 반응형 웹으로 작업 되어있던 사이트를 모바일에서
 	스크롤 문제로 사용이 어렵다는 판단하에 모바일 접속시 화면들을 모두 리디자인
-	후 런칭 했습니다. 프론트 쪽 100% 작업했고, 기존 기능 코드들을 많이 사용했습니다. 
+	후 런칭 했습니다. 프론트 쪽 100% 작업했고, 기존 기능 코드들을 많이 사용했습니다. 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br>
-	
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
 	자신의 공간을 ***공유*** 하고 초대받으며 같이 식사를 할 수 있도록 
 	도와주는 플랫폼 서비스.<br>
 	(이미지를 클릭하시면 해당 소개 페이지로 이동합니다.)
-	
 	<br>
-
 *  ***CupHolder***
 	[![2주 프로젝트](/img/cupholder.png)](https://gogojh.github.io/2019/05/20/2%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "2주 프로젝트 Click!")
 	스타벅스의 ***"SirenOrder"*** 처럼 손님과 매장 간의 주문처리시스템.<br>
@@ -79,5 +77,5 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYwODA0NV19
+eyJoaXN0b3J5IjpbLTM2ODMzMzY0OF19
 -->
