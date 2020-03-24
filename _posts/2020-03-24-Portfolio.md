@@ -23,7 +23,8 @@ tags:
 *  ***HiikPay***
 	[![HiikMax MobileWeb 작업](/img/hiikmax .png)](https://hiikpay.net/intro "HiikPay 프로젝트 Click")
 	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능하게 하기 위해서
-	앱 개발을 시작했고 , 한달 정도 
+	앱 개발을 시작했고, 런칭 일정이 너무 타이트하게 잡혀서 react-native expo 로 
+	모두 
 	 
 	<br>
 *  ***HiikMax***
@@ -77,5 +78,5 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODMzMzY0OF19
+eyJoaXN0b3J5IjpbMTQ4NDUyMjgyM119
 -->
