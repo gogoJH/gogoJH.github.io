@@ -20,8 +20,9 @@ tags:
 <br>
 
 ## Projects !
-*  ***HiikTalk***
-	[![HiikMax MobileWeb ](/img/modutable .png)]
+*  ***HiikMax***
+	[![HiikMax MobileWeb 작업](/img/hiikmax .png)]
+	암호화폐간 거래소 런칭 한달 전에 입사했으며, 트레이드, 공매도 쪽 
 	<br>
 *  ***ModuTable***
 	[![4주 프로젝트](/img/modutable .png)](https://gogojh.github.io/2019/06/25/4%EC%A3%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C/ "4주 프로젝트 Click!")
@@ -69,5 +70,5 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTc3ODc2N119
+eyJoaXN0b3J5IjpbLTEzMTg3Nzg4NjddfQ==
 -->
