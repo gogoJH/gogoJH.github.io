@@ -27,6 +27,9 @@ tags:
 	모두 대응 가능하게 개발 후 런칭했습니다.
 	3개국 언어 지원이 가능하게 언어팩 작업 되었습니다.
 	<br>
+	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
+	
+	<br>
 	
 *  ***HiikMax***
 	[![HiikMax MobileWeb ](/img/hiikmax .png)](https://hiikmax.com/trading/btchic "Hiikmax 프로젝트 Click!")
@@ -34,6 +37,7 @@ tags:
 	스크롤 문제로 사용이 어렵다는 판단하에 모바일 접속시 화면들을 모두 리디자인
 	후 런칭 했습니다. 프론트 쪽 100% 작업했고, 기존 기능 코드들을 많이 사용했습니다. 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
+	
 	<br>
 	
 *  ***ModuTable***
@@ -82,6 +86,6 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA2NjA5NDIsLTI2OTE3ODQ4NCwxMz
+eyJoaXN0b3J5IjpbLTE4NDU1NDMxMzcsLTI2OTE3ODQ4NCwxMz
 U3Mzc2MTM4XX0=
 -->
