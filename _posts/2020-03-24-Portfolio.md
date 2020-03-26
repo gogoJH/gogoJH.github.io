@@ -23,7 +23,7 @@ tags:
 
 *  ***HiikPay***
 	[![HiikPay App](/img/hiikpay.png)](http://www.hiikpay.com/ "HiikPay Click")
-	React Native + expo
+	**React Native + Expo + Express**
 	
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
@@ -84,6 +84,7 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Nzg4OTAxMCwtMTg0NDAyNzc4NSwtMT
-c2Mjg1MTg1LC0yNjkxNzg0ODQsMTM1NzM3NjEzOF19
+eyJoaXN0b3J5IjpbMTMwODA4NzI4NywxNzU3ODg5MDEwLC0xOD
+Q0MDI3Nzg1LC0xNzYyODUxODUsLTI2OTE3ODQ4NCwxMzU3Mzc2
+MTM4XX0=
 -->
