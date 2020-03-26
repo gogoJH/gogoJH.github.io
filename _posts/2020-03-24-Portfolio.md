@@ -23,10 +23,8 @@ tags:
 
 *  ***HiikPay***
 	[![HiikPay App](/img/hiikpay.png)](http://www.hiikpay.com/ "HiikPay Click")
-	거래소 오픈과 함께 안드로이드, ios 앱으로도 코인 거래가 가능하게 하기 위해서
-	앱 개발을 시작했고, 런칭 일정이 너무 타이트하게 잡혀서 react-native expo 로 
-	모두 대응 가능하게 개발 후 런칭했습니다.
-	3개국 언어 지원이 가능하게 언어팩 작업 되었습니다.
+	React Native + expo
+	
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
@@ -86,6 +84,6 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQwMjc3ODUsLTE3NjI4NTE4NSwtMj
-Y5MTc4NDg0LDEzNTczNzYxMzhdfQ==
+eyJoaXN0b3J5IjpbMTc1Nzg4OTAxMCwtMTg0NDAyNzc4NSwtMT
+c2Mjg1MTg1LC0yNjkxNzg0ODQsMTM1NzM3NjEzOF19
 -->
