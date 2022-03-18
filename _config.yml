@@ -8,6 +8,8 @@ keyword: "JH, JH Blog, React, Redux, front-end, 개발블로그, 개발공부"
 url: "http://gogoJH.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/gogoJH/gogoJH.github.io.git" # you code repository
+future : true
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
