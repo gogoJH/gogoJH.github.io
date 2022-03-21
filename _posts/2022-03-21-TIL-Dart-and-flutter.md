@@ -22,7 +22,7 @@ tags:
 ![stars 비교](https://ichi.pro/assets/images/max/724/0*g9h3ryw801Lx6Lzu)
 ***Flutter*** 는 그래프에서 봐도 알겠지만 벌써 리액트 네이티브를 넘어선 인기를 보여주고 있다.
 
-2015년에 나와서 ios와 안드로이드앱을 자바스크립트만 가지고 만들 수 있다는 이점을 가지고 폭발적으로 수요가 발생했던 리액트 네이브트는 아이디어 자체는 굉장히 좋았지만 막상 앱을 만들어서 빌드해보면 항상 두가지 플랫폼에서 정상 작동하는지 **디버깅** 해야만 했다.
+2015년에 나와서 ios와 안드로이드앱을 자바스크립트만 가지고 만들 수 있다는 이점을 가지고 폭발적으로 수요가 발생했던 리액트 네이브트는 아이디어 자체는 굉장히 좋았지만 막상 앱을 만들어서 빌드해보면 항상 두가지 플랫폼에서 정상 작동하는지 ***디버깅*** 해야만 했다.
 
 버튼을 만든다고 하면 ios와 안드로이드 버튼은 여러면에서 다르기 때문에 안드로이드에서  잘 작동 되는 버튼이 ios에선 안되는 일이 허다했었다. 오픈 라이브러리를 사용할 때도 한쪽만 지원 된다든가 지원 기기 os 버전에 따라서 여러 문제점들을 야기했던 것으로 기억한다.
 
@@ -30,7 +30,7 @@ tags:
 처음 Flutter가 좋다고 듣게 되었을 때 리액트네이티브나 Flutter 나 뭐가 다르겠어라고 생각했었다.
 근데 막상 공부를 하다보니 많은 것이 다르고 베이스 언어인 Dart가 OOP 구현 편의성이나 직관성이 너무 좋아서 오 좋은데 하고 계속 빠져들고 있는거 같다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE4ODg3MjQsMTMxMTYxNzQxNywtMT
+eyJoaXN0b3J5IjpbLTE5NTUwMzA0NzQsMTMxMTYxNzQxNywtMT
 U3NzUxMTYxNiwyMDk5ODY0NDQyLC0yMDYyODU1OTU1LDMwMjk4
 NDMyLDEwMDgwNTc2NTIsNjU0NjI1MDY0XX0=
 -->
