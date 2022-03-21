@@ -16,9 +16,10 @@ tags:
 
 그동안은 회사에서의 프로젝트 일정을 쳐낸다고 관심있었던 **Flutter**를 접해볼 
 기회가 없었다.
-시간도 생겼고 일을 하지 못하는 동안 엄청나게 발전 및 인기도가 생긴 플러터를 
-얼핏 살펴보니 그동안 리액트 네이티브를 사용하면서 불편했던 부분들 예를 들어 서로 다른 두 플랫폼을 
+시간도 생겼고 일을 하지 못하는 동안 엄청나게 발전 및 인기도가 생긴 플러터를 배워보고 작은 스몰 프로젝트도 진행해볼 생각이다.
+
+### Flutter 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NTA5OTQ1LDY1NDYyNTA2NF19
+eyJoaXN0b3J5IjpbMTAwODA1NzY1Miw2NTQ2MjUwNjRdfQ==
 -->
