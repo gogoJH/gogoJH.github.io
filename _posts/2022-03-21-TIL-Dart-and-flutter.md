@@ -31,9 +31,11 @@ tags:
 
 근데 막상 공부를 하다보니 많은 것이 다르고 베이스 언어인 **Dart**가 OOP 구현 편의성이나 직관성이 너무 좋아서 오 좋은데 하고 계속 빠져들고 있는거 같다.
 
-그리고 뭐니뭐니 해도 한가지 코드로 웹앱 안드로이드 ios 까지 별도의 디버깅이 필요치 않을 만큼의 
+그리고 뭐니뭐니 해도 한가지 코드로 웹앱 안드로이드 ios 까지 별도의 디버깅이 필요치 않을 만큼의 호환성은 리액트 네이티브로 앱을 만들때의 스트레스가 1 도 없었다.
+
+아직 심도 있는 공부를 해보진 않았지만 차츰차츰 공부 하면서 공부한 내용을 정리해보려한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDM2Mzk2LDEzMTE2MTc0MTcsLTE1Nz
-c1MTE2MTYsMjA5OTg2NDQ0MiwtMjA2Mjg1NTk1NSwzMDI5ODQz
-MiwxMDA4MDU3NjUyLDY1NDYyNTA2NF19
+eyJoaXN0b3J5IjpbMjExMTkyMDE1OCwxMzExNjE3NDE3LC0xNT
+c3NTExNjE2LDIwOTk4NjQ0NDIsLTIwNjI4NTU5NTUsMzAyOTg0
+MzIsMTAwODA1NzY1Miw2NTQ2MjUwNjRdfQ==
 -->
