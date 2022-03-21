@@ -27,10 +27,10 @@ tags:
 버튼을 만든다고 하면 ios와 안드로이드 버튼은 여러면에서 다르기 때문에 안드로이드에서  잘 작동 되는 버튼이 ios에선 안되는 일이 허다했었다. 오픈 라이브러리를 사용할 때도 한쪽만 지원 된다든가 지원 기기 os 버전에 따라서 여러 문제점들을 야기했던 것으로 기억한다.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmt5COK8kAoQFSW7exx1-LBfSXR0XFyCkZ-w&usqp=CAU)
-처음 Flutter가 좋다고 듣게 되었을 때 리액트네이티브나 Flutter 나 뭐가 다르겠어라고 생각했었다.
+***Flutter 2.0*** 이 출시 되었을 때 너무 좋다는 개발 지인들의 이야기를 듣게  리액트네이티브나 Flutter 나 뭐가 다르겠어라고 생각했었다.
 근데 막상 공부를 하다보니 많은 것이 다르고 베이스 언어인 Dart가 OOP 구현 편의성이나 직관성이 너무 좋아서 오 좋은데 하고 계속 빠져들고 있는거 같다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTUwMzA0NzQsMTMxMTYxNzQxNywtMT
-U3NzUxMTYxNiwyMDk5ODY0NDQyLC0yMDYyODU1OTU1LDMwMjk4
-NDMyLDEwMDgwNTc2NTIsNjU0NjI1MDY0XX0=
+eyJoaXN0b3J5IjpbMTM3MjQ4NjQwOCwxMzExNjE3NDE3LC0xNT
+c3NTExNjE2LDIwOTk4NjQ0NDIsLTIwNjI4NTU5NTUsMzAyOTg0
+MzIsMTAwODA1NzY1Miw2NTQ2MjUwNjRdfQ==
 -->
