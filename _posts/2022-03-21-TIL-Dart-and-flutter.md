@@ -15,7 +15,8 @@ tags:
 # 새언어 Dart 공부 시작.
 
 그동안은 회사에서의 프로젝트 일정을 쳐낸다고
- 관심있었던 Flutter를 접해볼 기회가 없었다.
+관심있었던 Flutter를 접해볼 기회가 없었다.
+그래서 이왕 시간이 생긴 김에 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU4NDE4OThdfQ==
+eyJoaXN0b3J5IjpbNjU0NjI1MDY0XX0=
 -->
