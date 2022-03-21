@@ -14,10 +14,11 @@ tags:
 ---
 # 새언어 Dart 공부 시작.
 
-그동안은 회사에서의 프로젝트 일정을 쳐낸다고 관심있었던 Flutter를 접해볼 
+그동안은 회사에서의 프로젝트 일정을 쳐낸다고 관심있었던 **Flutter**를 접해볼 
 기회가 없었다.
+시간도 생겼고 일을 하지 못하는 동안 엄청나게 발전 및 인기도가 생긴 플러터를 
 얼핏 살펴보니 그동안 리액트 네이티브를 사용하면서 불편했던 부분들 예를 들어 서로 다른 두 플랫폼을 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgyNjAzNjEsNjU0NjI1MDY0XX0=
+eyJoaXN0b3J5IjpbODU1NTA5OTQ1LDY1NDYyNTA2NF19
 -->
