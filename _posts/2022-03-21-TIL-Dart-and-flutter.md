@@ -19,7 +19,8 @@ tags:
 시간도 생겼고 일을 하지 못하는 동안 엄청나게 발전 및 인기도가 생긴 플러터를 배워보고 작은 스몰 프로젝트도 진행해볼 생각이다.
 
 ### Flutter 
-
+![stars 빅](https://ichi.pro/assets/images/max/724/0*g9h3ryw801Lx6Lzu)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODA1NzY1Miw2NTQ2MjUwNjRdfQ==
+eyJoaXN0b3J5IjpbNTAyOTA0NzksMTAwODA1NzY1Miw2NTQ2Mj
+UwNjRdfQ==
 -->
