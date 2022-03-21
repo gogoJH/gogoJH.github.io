@@ -16,8 +16,8 @@ tags:
 
 그동안은 회사에서의 프로젝트 일정을 쳐낸다고 관심있었던 Flutter를 접해볼 
 기회가 없었다.
-얼핏 살펴보니 그동안 리액트 네이티브를 사용하면서 불편했던 부분들 예를 들어 안드로이드 빌드 및 
+얼핏 살펴보니 그동안 리액트 네이티브를 사용하면서 불편했던 부분들 예를 들어 안드로이드 빌드 및 ios 빌드 후에 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODI1MTQ1OSw2NTQ2MjUwNjRdfQ==
+eyJoaXN0b3J5IjpbMTIzODc4NTU4MCw2NTQ2MjUwNjRdfQ==
 -->
