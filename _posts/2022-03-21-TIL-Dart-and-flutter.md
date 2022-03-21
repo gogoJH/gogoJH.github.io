@@ -21,8 +21,8 @@ tags:
 ### Flutter 
 ![stars 비교](https://ichi.pro/assets/images/max/724/0*g9h3ryw801Lx6Lzu)
 플러터는 그래프에서 봐도 알겠지만 벌써 리액트 네이티브를 넘어선 인기를 보여주고 있다.
-2015년에 나와서 ios와 안드로이드앱을 자바스크립트만 가지고 만들 수 있다는 
+2015년에 나와서 ios와 안드로이드앱을 자바스크립트만 가지고 만들 수 있다는 이점을 가지고 폭발적으로 수요가 발생했던 리액트 네이브트는 아이디어 자체는 굉장히 좋았지만 막상 앱을 만들어서 빌드해보면 항상  두가지 플랫폼에서 정상 작동하는지 확인했어야했다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODE2MzM0MCwtMjA2Mjg1NTk1NSwzMD
+eyJoaXN0b3J5IjpbLTU3ODcwNjAwMCwtMjA2Mjg1NTk1NSwzMD
 I5ODQzMiwxMDA4MDU3NjUyLDY1NDYyNTA2NF19
 -->
