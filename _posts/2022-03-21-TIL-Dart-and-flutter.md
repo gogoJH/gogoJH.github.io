@@ -21,8 +21,8 @@ tags:
 ### Flutter 
 ![stars 비교](https://ichi.pro/assets/images/max/724/0*g9h3ryw801Lx6Lzu)
 플러터는 그래프에서 봐도 알겠지만 벌써 리액트 네이티브를 넘어선 인기를 보여주고 있다.
-
+2015년에 나와서
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjQwMzM3NSwzMDI5ODQzMiwxMDA4MD
-U3NjUyLDY1NDYyNTA2NF19
+eyJoaXN0b3J5IjpbLTIwNjI4NTU5NTUsMzAyOTg0MzIsMTAwOD
+A1NzY1Miw2NTQ2MjUwNjRdfQ==
 -->
