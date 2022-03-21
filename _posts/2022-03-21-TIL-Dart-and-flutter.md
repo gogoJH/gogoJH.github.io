@@ -26,11 +26,10 @@ tags:
 
 버튼을 만든다고 하면 ios와 안드로이드 버튼은 여러면에서 다르기 때문에 안드로이드에서  잘 작동 되는 버튼이 ios에선 안되는 일이 허다했었다. 오픈 라이브러리를 사용할 때도 한쪽만 지원 된다든가 지원 기기 os 버전에 따라서 여러 문제점들을 야기했던 것으로 기억한다.
 
-
-(![](https://miro.medium.com/max/953/0*rqTG-gnuuH23YBTU.png)
-![]
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmt5COK8kAoQFSW7exx1-LBfSXR0XFyCkZ-w&usqp=CAU)
+처음 Flutter가 좋다고 듣게 되었을 때 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE4MTMyNSwtMTU3NzUxMTYxNiwyMD
+eyJoaXN0b3J5IjpbMTMxMTYxNzQxNywtMTU3NzUxMTYxNiwyMD
 k5ODY0NDQyLC0yMDYyODU1OTU1LDMwMjk4NDMyLDEwMDgwNTc2
 NTIsNjU0NjI1MDY0XX0=
 -->
