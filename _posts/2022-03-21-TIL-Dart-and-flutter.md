@@ -3,7 +3,7 @@ published: true
 layout:     post
 title:      "2022.03.21 Dart and Flutter"
 subtitle:   "리액트 네이티브 떨고 있니?"
-date:       2022-03-19
+date:       2022-03-21
 author:     gogoJH
 header-img: img/home-bg-art.jpg
 catalog: true
@@ -35,7 +35,7 @@ tags:
 
 아직 심도 있는 공부를 해보진 않았지만 차츰차츰 공부 하면서 공부한 내용을 정리해보려한다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTkyMDE1OCwxMzExNjE3NDE3LC0xNT
+eyJoaXN0b3J5IjpbLTI3NTQ0NzQ0OSwxMzExNjE3NDE3LC0xNT
 c3NTExNjE2LDIwOTk4NjQ0NDIsLTIwNjI4NTU5NTUsMzAyOTg0
 MzIsMTAwODA1NzY1Miw2NTQ2MjUwNjRdfQ==
 -->
