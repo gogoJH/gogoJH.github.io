@@ -24,7 +24,7 @@ tags:
 	[![Cobot-i](/img/cobot.png)](https://cobot-i.com/explain)
 	**Angular + React-native + Electron.js**
 - 코봇아이
-	- React, React-native, Electron.js 를 이용하여 매니저화면(웹), 윈도우앱을 만들었고, 웹페이지 같은 경우엔 프로젝트 생성부터 전체적인 라우터 설계까지 했던 프로젝트였고 배포 및 프로덕트  .
+	- Angular, React-native, Electron.js 를 이용하여 매니저화면(웹), 윈도우앱을 만들었고, 웹페이지 같은 경우엔 프로젝트 생성부터 전체적인 라우터 설계까지 했던 프로젝트였고 배포 및 프로덕트단까지 개발을 했기 때문에 기억에 많이 남고 아쉬움도 큰 프로젝트였다.
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
@@ -83,7 +83,7 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
-#####  ALUX, 경기도 성남시 분당구 대왕판교로
+#####  ALUX, 경기도 성남시 분당구 대왕판교로 — xㅌ
 2020년 4월 - 2021년 5월 
 
 - 방가방가, 교구재마트, 코봇아이 개발에 참여하였음.
@@ -100,6 +100,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTE0MDUzNCwtMTgwOTQ2MzM5MywxOD
+eyJoaXN0b3J5IjpbMTIyNzY1OTMyMSwtMTgwOTQ2MzM5MywxOD
 Y2OTEwMjg0XX0=
 -->
