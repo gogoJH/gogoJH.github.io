@@ -72,8 +72,11 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
-#####  ALUX, 경기도  분당구 판교동 
+#####  ALUX, 경기도 성남시 분당구 대왕판교로
+2020년 4월 - 2021년 5월 
 
+- 방가방가, 교구재마트, 코봇아이 개발에 참여하였음.
+- Angular를 활용하여 복잡한 방괗
 ##### HiikTalk, 세종특별자치시 — 사원
 2019년 12월 - 2020년 4월 
 
@@ -86,6 +89,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjkzODYwNSwtMTgwOTQ2MzM5MywxOD
-Y2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTE4MDg4NzkxMDMsLTE4MDk0NjMzOTMsMT
+g2NjkxMDI4NF19
 -->
