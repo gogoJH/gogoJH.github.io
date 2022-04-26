@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "2020.03.24 Portfolio"
+title:      "2022.04.27 Portfolio"
 subtitle:   "Portfolio"
-date:       2020-03-24
+date:       2022-04-27
 author:     gogoJH
 header-img: img/home-bg-geek.jpg
 catalog: true
@@ -32,8 +32,8 @@ tags:
 *  ***교구재마트***
 	[![교구재마트](/img/교구재마트.png)](https://ggj-mart.com/mall/default/home)
 	**Angular + Firebase**
-	교구재마트는 Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 
-및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
+	교구재마트는 Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
+	엔드포인트만 다르게하여 같으면서도 다른 결제 
 		<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
@@ -83,23 +83,23 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
-#####  ALUX, 경기도 성남시 분당구 대왕판교로 — xㅌ
+#####  ALUX, 경기도 성남시 분당구 대왕판교로 — 프론트엔트 팀원
 2020년 4월 - 2021년 5월 
 
 - 방가방가, 교구재마트, 코봇아이 개발에 참여하였음.
 
-##### HiikTalk, 세종특별자치시 — 사원
+##### HiikTalk, 세종특별자치시 — 프론트엔드 팀원
 2019년 12월 - 2020년 4월 
 
 -	Hiikmax 코인 거래소와 HiikPay 앱을 개발하였음.
 -	React 와 React-native를 사용하였고 프론트엔드 90%이상 작업하였음.
 
-##### Luxent, 경기도 남양주시 — 대리
+##### Luxent, 경기도 남양주시 — 마케팅 대리
 2017년 2월 - 2018년 2월
 -   네이버블로그, 검색광고, SNS 광고, 간단한 웹사이트 수정.
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzY1OTMyMSwtMTgwOTQ2MzM5MywxOD
-Y2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTEyOTA5Mzk4NzcsLTE4MDk0NjMzOTMsMT
+g2NjkxMDI4NF19
 -->
