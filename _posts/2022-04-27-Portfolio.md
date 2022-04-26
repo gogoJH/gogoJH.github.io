@@ -31,7 +31,7 @@ tags:
 *  ***교구재마트***
 	[![교구재마트](/img/교구재마트.png)](https://ggj-mart.com/mall/default/home)
 	**Angular + Firebase**
-	교구재마트는 Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
+	- 교구재마트는 Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
 	엔드포인트만 다르게하여 같으면서도 다른 결제가 이루어질 수 있게 만드는 부분이 굉장히 인상 깊었던 프로젝트였다.
 		<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
@@ -99,6 +99,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM3OTU1MjksLTkyNTExOTk1MSwtMT
-gwOTQ2MzM5MywxODY2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTgzODM1OTQxNCwtMTU1Mzc5NTUyOSwtOT
+I1MTE5OTUxLC0xODA5NDYzMzkzLDE4NjY5MTAyODRdfQ==
 -->
