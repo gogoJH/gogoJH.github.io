@@ -22,7 +22,10 @@ tags:
 ## Projects !
 *  ***교구재마트***
 	[![교구재마트](/img/교구재마트.png)](https://ggj-mart.com/mall/default/home)
-	**
+	**Angular + Firebase**
+		<br>
+	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
+	<br><br>
 
 *  ***HiikPay***
 	[![HiikPay App](/img/hiikpay.png)](https://play.google.com/store/apps/details?id=com.bckhan.hiikpay&hl=in "HiikPay Click")
@@ -69,6 +72,8 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
+####
+
 ##### Luxent, 경기도 남양주시 — 대리
 2017년 2월 - 2018년 2월
 -   네이버블로그, 검색광고, SNS 광고, 간단한 웹사이트 수정.
@@ -87,6 +92,6 @@ tags:
 -   개인 사업을 해본 사람과 안해본 사람은 책임감 자체가 다르다고 생각합니다.
 -   자기 사업을 해봤기 때문에 책임의 무게를 누구보다 잘 알고 있습니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTk5ODUxMywtMTgwOTQ2MzM5MywxOD
-Y2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTIxMjgyMjkzMTAsLTE4MDk0NjMzOTMsMT
+g2NjkxMDI4NF19
 -->
