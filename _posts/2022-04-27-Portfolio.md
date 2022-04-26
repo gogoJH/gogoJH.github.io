@@ -21,8 +21,8 @@ tags:
 
 ## Projects !
 *  ***Cobot-i***
-	[![Cobot-i](/img/cobot.png)](https://ggj-mart.com/mall/default/home)
-	**Angular + Firebase**
+	[![Cobot-i](/img/cobot.png)](https://cobot-i.com/explain)
+	**Angular + React-native + el**
 		<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
@@ -98,6 +98,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTM4MjgzOTcsLTE4MDk0NjMzOTMsMT
-g2NjkxMDI4NF19
+eyJoaXN0b3J5IjpbLTg4MjIxMzI2NiwtMTgwOTQ2MzM5MywxOD
+Y2OTEwMjg0XX0=
 -->
