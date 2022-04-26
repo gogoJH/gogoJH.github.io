@@ -72,11 +72,13 @@ tags:
 항상 즐겁게 일하려고 노력합니다.<br>
 개발자에서 끝나지 않고 기발자로써 성장해가고 싶습니다. 
 
+#####  ALUX, 경기도  분당구 판교동 
+
 ##### HiikTalk, 세종특별자치시 — 사원
 2019년 12월 - 2020년 4월 
 
 -	Hiikmax 코인 거래소와 HiikPay 앱을 개발하였음.
--	React 와 React-native를 사용하였고 프론트엔드를 
+-	React 와 React-native를 사용하였고 프론트엔드 90%이상 작업하였음.
 
 ##### Luxent, 경기도 남양주시 — 대리
 2017년 2월 - 2018년 2월
@@ -84,6 +86,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNzU4NjQ0LC0xODA5NDYzMzkzLDE4Nj
-Y5MTAyODRdfQ==
+eyJoaXN0b3J5IjpbMjE0MjkzODYwNSwtMTgwOTQ2MzM5MywxOD
+Y2OTEwMjg0XX0=
 -->
