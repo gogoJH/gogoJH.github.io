@@ -23,8 +23,7 @@ tags:
 *  ***Cobot-i***
 	[![Cobot-i](/img/cobot.png)](https://cobot-i.com/explain)
 	**Angular + React-native + Electron.js**
-- 코봇아이
-	- Angular, React-native, Electron.js 를 이용하여 매니저화면(웹), 윈도우앱을 만들었고, 웹페이지 같은 경우엔 프로젝트 생성부터 전체적인 라우터 설계까지 했던 프로젝트였고 배포 및 프로덕트단까지 개발을 했기 때문에 기억에 많이 남고 아쉬움도 큰 프로젝트였다.
+	- 코봇아이는 Angular, React-native, Electron.js 를 이용하여 매니저화면(웹), 윈도우앱을 만들었고, 웹페이지 같은 경우엔 프로젝트 생성부터 전체적인 라우터 설계까지 했던 프로젝트였고 배포 및 프로덕트단까지 개발을 했기 때문에 기억에 많이 남고 아쉬움도 큰 프로젝트였다.
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
@@ -100,6 +99,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU4ODAyNTgsLTkyNTExOTk1MSwtMT
+eyJoaXN0b3J5IjpbLTE1NTM3OTU1MjksLTkyNTExOTk1MSwtMT
 gwOTQ2MzM5MywxODY2OTEwMjg0XX0=
 -->
