@@ -40,6 +40,7 @@ tags:
 *  ***HiikPay***
 	[![HiikPay App](/img/hiikpay.png)](https://play.google.com/store/apps/details?id=com.bckhan.hiikpay&hl=in "HiikPay Click")
 	**React Native + Expo + Express**
+	- HiikPay 는 처음 만들어봤던 앱 프로젝트였고, 당시에 앱관련 경험이 없던 터라 Expo를 이용해서 개발 및 배포해
 	
 	<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
@@ -99,6 +100,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODM1OTQxNCwtMTU1Mzc5NTUyOSwtOT
+eyJoaXN0b3J5IjpbLTY1MjQ3NDM1NywtMTU1Mzc5NTUyOSwtOT
 I1MTE5OTUxLC0xODA5NDYzMzkzLDE4NjY5MTAyODRdfQ==
 -->
