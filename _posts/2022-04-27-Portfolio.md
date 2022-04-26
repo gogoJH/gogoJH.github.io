@@ -22,10 +22,13 @@ tags:
 ## Projects !
 *  ***Cobot-i***
 	[![Cobot-i](/img/cobot.png)](https://cobot-i.com/explain)
-	**Angular + React-native + el**
+	**Angular + React-native + Electron.js**
 		<br>
 	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
 	<br><br>
+	- ***교구재마트***
+	- Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 
+
 *  ***교구재마트***
 	[![교구재마트](/img/교구재마트.png)](https://ggj-mart.com/mall/default/home)
 	**Angular + Firebase**
@@ -82,10 +85,7 @@ tags:
 2020년 4월 - 2021년 5월 
 
 - 방가방가, 교구재마트, 코봇아이 개발에 참여하였음.
-- ***교구재마트***
-	- Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
-- 코봇아이
-	- React, React-native, Electron.js 를 이용하여 매니저화면(웹), 윈도우앱을 만들었고, 윈도우앱을 만들어보는 새로운 경험이였다.
+
 ##### HiikTalk, 세종특별자치시 — 사원
 2019년 12월 - 2020년 4월 
 
@@ -98,6 +98,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjIxMzI2NiwtMTgwOTQ2MzM5MywxOD
+eyJoaXN0b3J5IjpbMTUxODk0ODYyNiwtMTgwOTQ2MzM5MywxOD
 Y2OTEwMjg0XX0=
 -->
