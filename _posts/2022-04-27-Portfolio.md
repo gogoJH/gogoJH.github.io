@@ -13,8 +13,8 @@ tags:
 ---
 ## 개발자? 기발자!가 되고 싶은 조진혁 입니다.
 ***새로운 경험*** 은 언제나 즐겁고 많은 과제들을 동반하게 됩니다.<br>
-현재까지 해본 경험 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
-평생을 경험해도 시간이 모자를꺼 같으니까요 !<br>
+현재까지 경험해본 중엔 개발 파트가 최고난이도가 아닌가 싶네요.<br> 
+평생을 경험하고 계속 새로운 경험들이 기다리고 있어서 좋습니다 !<br>
 개발에서 그치지않고 내가 ***기획*** 하고 내가 ***서비스*** 하는 그 날까지 !
 
 <br>
@@ -100,6 +100,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTExOTk1MSwtMTgwOTQ2MzM5MywxOD
-Y2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbLTEyNjU4ODAyNTgsLTkyNTExOTk1MSwtMT
+gwOTQ2MzM5MywxODY2OTEwMjg0XX0=
 -->
