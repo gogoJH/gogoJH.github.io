@@ -20,6 +20,12 @@ tags:
 <br>
 
 ## Projects !
+*  ***Cobot-i***
+	[![Cobot-i](/img/cobot.png)](https://ggj-mart.com/mall/default/home)
+	**Angular + Firebase**
+		<br>
+	(이미지를 클릭하시면 해당 페이지로 이동합니다.)
+	<br><br>
 *  ***교구재마트***
 	[![교구재마트](/img/교구재마트.png)](https://ggj-mart.com/mall/default/home)
 	**Angular + Firebase**
@@ -92,6 +98,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM0NDAzMDgsLTE4MDk0NjMzOTMsMT
+eyJoaXN0b3J5IjpbLTEyNTM4MjgzOTcsLTE4MDk0NjMzOTMsMT
 g2NjkxMDI4NF19
 -->
