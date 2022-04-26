@@ -75,7 +75,8 @@ tags:
 ##### HiikTalk, 세종특별자치시 — 사원
 2019년 12월 - 2020년 4월 
 
--	Hiikmax 코인 거래소와 HiikPay 
+-	Hiikmax 코인 거래소와 HiikPay 앱을 개발하였음.
+-	React 와 React-native를 사용하였고 프론트엔드를 
 
 ##### Luxent, 경기도 남양주시 — 대리
 2017년 2월 - 2018년 2월
@@ -83,6 +84,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA1MDkxNjEsLTE4MDk0NjMzOTMsMT
-g2NjkxMDI4NF19
+eyJoaXN0b3J5IjpbNjQyNzU4NjQ0LC0xODA5NDYzMzkzLDE4Nj
+Y5MTAyODRdfQ==
 -->
