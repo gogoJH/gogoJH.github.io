@@ -79,7 +79,7 @@ tags:
 - 교구재마트
 	- Angular를 활용하여 미수, 외상 등 복잡한 방과후 활동시장에 맞는 쇼핑몰 및 admin 페이지에 참여 전반적인 프론트엔드를 담당함.
 - 코봇아이
-	- react, react-native, electric
+	- React, React-native, Electron.js 를 이용하여 매니저화면 
 ##### HiikTalk, 세종특별자치시 — 사원
 2019년 12월 - 2020년 4월 
 
@@ -92,6 +92,6 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzY5NTM1MCwtMTgwOTQ2MzM5MywxOD
-Y2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbNTg5MDg2MzEsLTE4MDk0NjMzOTMsMTg2Nj
+kxMDI4NF19
 -->
