@@ -1,4 +1,5 @@
 ---
+published: true
 layout:     post
 title:      "2022.04.27 Portfolio"
 subtitle:   "Portfolio"
@@ -101,6 +102,7 @@ tags:
 -   서비스 소개 영상 제작, 구매 상세페이지 작성.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI5MjgwMTgsLTE1NTM3OTU1MjksLT
-kyNTExOTk1MSwtMTgwOTQ2MzM5MywxODY2OTEwMjg0XX0=
+eyJoaXN0b3J5IjpbMzQ5MTY0ODAsLTE2MDI5MjgwMTgsLTE1NT
+M3OTU1MjksLTkyNTExOTk1MSwtMTgwOTQ2MzM5MywxODY2OTEw
+Mjg0XX0=
 -->
