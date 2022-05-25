@@ -21,8 +21,9 @@ tags:
 항상 사용하던 부분들만 사용하는 빈도가 높아지다보니 정말 베이스한 기초 이론들을 저멀리하게 됐구나 느끼는 준비기간이였다.
 
 막상 면접을 준비하면서 베이스 랭귀지로 JS를 선택 개발 스택으로 es6를 적어놓았다면 아무런 준비 없이 호이스팅, this 사용법 등을 던졌을때 정확하고 간결하게 내용을 정리해 말하지 못한다면 꼭 이직이 아니더라도 한번쯤 다시 기초로 돌아가보길 .. 
+<br>
 
-> 
+> **다시금 다지는 블로그**
 
 첫 회사는 나에게 금전적으로 정말 많은 것을 해주었고 그만큼 책임져야할 
 스코프 자체도 굉장히 광범위했다.
@@ -39,6 +40,6 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNDkwODUyLC0xMTI2NTQ1MDYyLC01NT
-gzMjQ2NDNdfQ==
+eyJoaXN0b3J5IjpbNjI2ODQ1ODkyLDU1MjQ5MDg1MiwtMTEyNj
+U0NTA2MiwtNTU4MzI0NjQzXX0=
 -->
