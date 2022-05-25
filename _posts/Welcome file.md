@@ -3,7 +3,7 @@
 layout:     post
 title:      "2022.05.24 케어링 입사"
 subtitle:   "로켓성장 앵귤러 안녕!"
-date:       2020-04-22
+date:       2022-05-24
 author:     gogoJH
 header-img: img/home-bg-art.jpg
 catalog: true
@@ -13,7 +13,7 @@ tags:
     - TIL
 ---
 # 프론트엔드 개발자 이직과 케어링 입사! :)
-> **프론트 엔드 개발자 이직준비는 잊고 있던 것들을 기억하게 한다.** 
+> **프론트 엔드 개발자 이직 준비는 잊고 있던 것들을 기억하게 한다.** 
 
 개발자로써 일을 한지가 2년여가 되어 간다.
 회사에서 많은 프로젝트를 진행하고 기획된 무언가를 만드는 과정은 항상 재밌었지만, 새로운 무언가를 언제나 습득해야한다는 것은 쉽지 않은 일이였다.
@@ -30,12 +30,12 @@ tags:
 
 막상 어떤 것을 고민했었는데 어떤 어려움이 있었는지 어떤 기술적 정리가 되어있는지 등 사내 문서로 정리한건 많지만 막상 이직을 하려고 대외적으로 내보일게 없다는게 참 한심스럽기까지 했다.
 
-혹시나 이 글을 
+개발자라면 꼭 자신의 레퍼런스를 챙겨가시길...
 
 그래서 다시금 또 이번엔 정말로 일주일에 한번씩이라도 혹은 어떤걸 준비하고 있을때 꼭 블로그에 정리해야겠다.
 
 이상.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjAzMTY0LDU1MjQ5MDg1MiwtMTEyNj
+eyJoaXN0b3J5IjpbOTE4MjIxNDg2LDU1MjQ5MDg1MiwtMTEyNj
 U0NTA2MiwtNTU4MzI0NjQzXX0=
 -->
