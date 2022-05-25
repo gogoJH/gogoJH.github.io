@@ -13,9 +13,9 @@ tags:
     - TIL
 ---
 # 케어링 입사!
-> .
+> 이직은 힘들었는데 결과에 감사.
 
-***신입인데 다 나한테하라고 하면 어떻게  !!*** 
+***프론트 엔드 개발자  이직준비는 *** 
 
 첫 회사를 경험 했을 때 되기만 하면 된다는 막무가내 코딩..
 엄청난 레거시 코드(리팩토링할 생각 없음 .. ) 
@@ -43,5 +43,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgwNDU2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE0MzU0OTE3MjRdfQ==
 -->
