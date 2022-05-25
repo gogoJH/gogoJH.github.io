@@ -20,7 +20,7 @@ tags:
 
 항상 사용하던 부분들만 사용하는 빈도가 높아지다보니 정말 베이스한 기초 이론들을 저멀리하게 됐구나 느끼는 준비기간이였다.
 
-막상 면접을 준비하면서 베이스 랭귀지로 JS를 선택 개발 스택으로 es6를 적어놓은 분들 중에 아무런 준비 없이 호이스팅, this 사용법  
+막상 면접을 준비하면서 베이스 랭귀지로 JS를 선택 개발 스택으로 es6를 적어놓은 분들 중에 아무런 준비 없이 호이스팅, this 사용법 등을 던졌을때 정확하고  
 
 > 개발자로써 커리어를 어떻게 쌓아야하는지에 대해서 많은 생각을 했었다.
 
@@ -39,5 +39,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTgwNzE5NSwtNTU4MzI0NjQzXX0=
+eyJoaXN0b3J5IjpbLTExMjY1NDUwNjIsLTU1ODMyNDY0M119
 -->
