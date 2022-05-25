@@ -26,9 +26,12 @@ tags:
 > **다시금 다지는 TIL 남기기**
 
 이번에 이직을 준비하면서 이력서 포트폴리오 때문에 굉장히 고민을 많이했었다.
-소스코드를 보여줄 수도 없고 그냥 내가 어떤걸 했다가 전부인 이력서는 아마도 메리트가 전혀 없는 종이하라는 것
+소스코드를 보여줄 수도 없고 그냥 내가 어떤걸 했다가 전부인 이력서는 아마도 메리트가 전혀 없는 종이한장이 되겠다는 생각을 많이했다.
 
+막상 어떤 것을 고민했었는데 어떤 어려움이 있었는지 어떤 기술적 정리가 되어있는지 등 사내 문서로 정리한건 많지만 막상 이직을 하려고 대외적으로 내보일게 없다는게 참 한심스럽기까지 했다.
+
+그래서 다시금 또 이
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQ4NDIxLDU1MjQ5MDg1MiwtMTEyNj
-U0NTA2MiwtNTU4MzI0NjQzXX0=
+eyJoaXN0b3J5IjpbMTU1ODc2MjgzNyw1NTI0OTA4NTIsLTExMj
+Y1NDUwNjIsLTU1ODMyNDY0M119
 -->
