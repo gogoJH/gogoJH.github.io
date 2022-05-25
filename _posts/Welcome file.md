@@ -2,7 +2,7 @@
 ---
 layout:     post
 title:      "2022.05.24 케어링 입사"
-subtitle:   "로켓성장 "
+subtitle:   "로켓성장 앵귤러 안녕!"
 date:       2020-04-22
 author:     gogoJH
 header-img: img/home-bg-art.jpg
@@ -12,8 +12,8 @@ tags:
     - JS
     - TIL
 ---
-# 새로운 회사에서 첫걸음 !
-> 모자람을 채우니 발걸음이 가볍다.
+# 케어링 입사!
+> .
 
 ***신입인데 다 나한테하라고 하면 어떻게  !!*** 
 
@@ -43,5 +43,5 @@ tags:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODkwNzMwN119
+eyJoaXN0b3J5IjpbLTExOTgwNDU2MDRdfQ==
 -->
