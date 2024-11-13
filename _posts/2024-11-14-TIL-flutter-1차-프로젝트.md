@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "2024.11.13 TIL을 시작하며!"
-subtitle:   "시작이 반이다."
+title:      "2024.11.14 TIL을 시작! 일일회고!"
+subtitle:   "시작이다."
 date:       2024-11-13
 author:     gogoJH
 header-img:  img/post-bg-first.jpg
@@ -9,20 +9,10 @@ catalog: true
 tags:
     - TIL
     - 개발일기
-    - 1주차 프로젝트
-    - DART
+    - 프로젝트
+    - Dart
 ---
 
-```
-#                           <- 대제목
-####                        <- 소제목
-#####                       <- 기본보다 작은 글자
-**bold**                    <- Bold
->                           <- | 들여쓰기
-`                           <- 백틱(백틱 세개는 여러줄 코드) 한줄 코드
-[google](www.google.com)    <- 링크
--                           <- 앞에 점 부제목
-```
 
 ### Scrum
 
