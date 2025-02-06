@@ -52,7 +52,7 @@ tags:
 .intro-about {
     text-align: left;
     max-width: 800px;
-    margin: 0 auto;
+    margin: 0 auto 20px auto;
     padding: 20px;
 }
 .intro-about h2 {
@@ -116,7 +116,7 @@ tags:
 }
 .section-title {
     font-size: 1.8em;
-    margin: 60px 0 20px 0;
+    margin: 60px 60px 20px 0;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
