@@ -214,7 +214,7 @@ tags:
 
 <div class="project-grid">
     <div class="project-left">
-        <h3>케어링 서비스 플랫폼</h3>
+        <h4>케어링 서비스 플랫폼</h4>
         <img src="/img/caring_logo.png" alt="케어링">
         <a href="https://caring.co.kr/review/">서비스 바로가기</a>
     </div>
@@ -231,7 +231,7 @@ tags:
 
 <div class="project-grid">
     <div class="project-left">
-        <h3>Cobot-i 크로스플랫폼</h3>
+        <h4>Cobot-i 크로스플랫폼</h4>
         <img src="/img/cobot.png" alt="Cobot-i">
     </div>
     <div class="project-right">
@@ -247,7 +247,7 @@ tags:
 
 <div class="project-grid">
     <div class="project-left">
-        <h3>교구재마트</h3>
+        <h4>교구재마트</h4>
         <img src="/img/교구재마트.png" alt="교구재마트">
     </div>
     <div class="project-right">
@@ -263,7 +263,7 @@ tags:
 
 <div class="project-grid">
     <div class="project-left">
-        <h3>HiikPay & HiikMax</h3>
+        <h4>HiikPay & HiikMax</h4>
         <img src="/img/hiikpay.png" alt="HiikPay">
     </div>
     <div class="project-right">
