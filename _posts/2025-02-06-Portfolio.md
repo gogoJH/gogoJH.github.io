@@ -73,7 +73,7 @@ tags:
 .career-line {
     font-size: 0.9em;
     color: #666;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .career-line table {
     width: 100%;
