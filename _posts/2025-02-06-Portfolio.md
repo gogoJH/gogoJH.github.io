@@ -48,13 +48,7 @@ tags:
     font-style: italic;
     margin-bottom: 20px;
 }
-.intro-links {
-    margin-bottom: 25px;
-}
-.intro-links a {
-    margin: 0 5px;
-    text-decoration: none;
-}
+
 .intro-about {
     text-align: left;
     max-width: 800px;
