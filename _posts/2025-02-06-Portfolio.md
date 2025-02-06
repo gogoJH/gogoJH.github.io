@@ -33,7 +33,6 @@ tags:
 <style>
 .intro-section {
     text-align: center;
-    margin-bottom: 40px;
     padding: 20px;
     background-color: #f8f9fa;
     border-radius: 8px;
@@ -123,7 +122,7 @@ tags:
 }
 .section-title {
     font-size: 1.8em;
-    margin: 40px 0 20px 0;
+    margin: 60px 0 20px 0;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
