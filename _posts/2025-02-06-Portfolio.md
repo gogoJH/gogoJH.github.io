@@ -144,6 +144,22 @@ tags:
     left: 0;
     color: #666;
 }
+.project-images {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin: 15px 0;
+}
+.logo-image {
+    max-width: 80px;
+    border-radius: 15px;
+}
+.app-image {
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
 </style>
 
 <div class="career-line">
@@ -185,12 +201,12 @@ tags:
 
 <div class="skill-section">
     <div class="skill-category">프론트엔드:</div>
-    <div class="skill-items">`React` `Next.js` `TypeScript` `Angular`</div>
+    <div class="skill-items">`React` `Next.js` `TypeScript` `Angular` `Flutter`</div>
 </div>
 
 <div class="skill-section">
     <div class="skill-category">모바일/데스크톱:</div>
-    <div class="skill-items">`React Native` `Electron`</div>
+    <div class="skill-items">`React Native` `Electron` `Flutter`</div>
 </div>
 
 <div class="skill-section">
@@ -200,10 +216,31 @@ tags:
 
 <div class="skill-section">
     <div class="skill-category">기타:</div>
-    <div class="skill-items">`Git` `AWS Lambda` `Firebase`</div>
+    <div class="skill-items">`Git` `AWS Lambda` `Firebase` `GCP` `Riverpod`</div>
 </div>
 
 <h1 class="section-title">📱 주요 프로젝트</h1>
+
+<div class="project-grid">
+    <div class="project-left">
+        <h4>당근마켓 클론</h4>
+        <div class="project-images">
+            <img src="/img/carrot_logo.svg" alt="당근마켓 로고" class="logo-image">
+        </div>
+    </div>
+    <div class="project-right">
+        <p><strong>기간</strong>: 2025.02.01 - 2025.02.25</p>
+        <p><strong>기술</strong>: <code>Flutter</code> <code>Riverpod</code> <code>GCP</code> <code>Firebase</code></p>
+        <ul class="detail-list">
+            <li>Flutter 기반 크로스플랫폼 모바일 앱 개발 (iOS/Android)</li>
+            <li>SNS 로그인 및 사용자 인증 시스템 구현</li>
+            <li>로컬 푸시 알림 및 서버 푸시 알림 기능 구현</li>
+            <li>네이버 지도 API를 활용한 위치 기반 서비스 개발</li>
+            <li>실시간 채팅 기능 및 사용자 위치별 맞춤 서비스 제공</li>
+            <li>Riverpod를 활용한 상태 관리 및 의존성 주입 패턴 적용</li>
+        </ul>
+    </div>
+</div>
 
 <div class="project-grid">
     <div class="project-left">
