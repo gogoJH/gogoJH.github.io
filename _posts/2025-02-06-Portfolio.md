@@ -103,6 +103,10 @@ tags:
     grid-template-columns: 30% 70%;
     gap: 20px;
     margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
 .project-left {
     text-align: center;
@@ -159,6 +163,40 @@ tags:
     max-width: 200px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+@media screen and (max-width: 768px) {
+    .project-grid {
+        grid-template-columns: 1fr;
+        padding: 15px;
+        gap: 15px;
+    }
+    
+    .project-left {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    
+    .project-right {
+        padding-left: 0;
+    }
+    
+    .project-left img {
+        max-width: 150px;
+        margin: 10px 0;
+    }
+    
+    .project-images {
+        margin: 10px 0;
+    }
+    
+    .logo-image {
+        max-width: 60px;
+    }
+    
+    .app-image {
+        max-width: 150px;
+    }
 }
 </style>
 
