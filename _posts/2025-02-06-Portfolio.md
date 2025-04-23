@@ -209,6 +209,24 @@ tags:
         <td>위치</td>
     </tr>
     <tr>
+        <td>케어링 홈페이지</td>
+        <td>프리랜서</td>
+        <td>2023.06 - 2024.12</td>
+        <td>서울 강남구</td>
+    </tr>
+    <tr>
+        <td>언니구두 쇼핑몰</td>
+        <td>프리랜서</td>
+        <td>2024.01 - 2024.06</td>
+        <td>서울 서초구</td>
+    </tr>
+    <tr>
+        <td>이끌로 플랫폼</td>
+        <td>프리랜서</td>
+        <td>2024.07 - 2024.12</td>
+        <td>서울 강남구</td>
+    </tr>
+    <tr>
         <td>케어링</td>
         <td>프론트엔드 개발자</td>
         <td>2022.05 - 2023.05</td>
@@ -344,6 +362,32 @@ tags:
         </ul>
     </div>
 </div>
+
+<h1 class="section-title">프리랜서 경력</h1>
+
+<div class="detail-title">케어링 홈페이지 유지보수 및 개편, 서울특별시 강남구 — 프리랜서</div>
+<div class="detail-period">2023년 6월 - 2024년 12월</div>
+<ul class="detail-list">
+    <li>케어링 공식 웹사이트 유지보수 및 UI/UX 개편 프로젝트 참여</li>
+    <li>Next.js 기반 웹사이트 성능 최적화 및 SEO 개선</li>
+    <li>반응형 디자인 적용 및 모바일 사용성 개선</li>
+</ul>
+
+<div class="detail-title">언니구두 쇼핑몰 구축, 서울특별시 서초구 — 프리랜서</div>
+<div class="detail-period">2024년 1월 - 2024년 6월</div>
+<ul class="detail-list">
+    <li>React 기반 쇼핑몰 프론트엔드 개발</li>
+    <li>결제 시스템 연동 및 장바구니 기능 구현</li>
+    <li>관리자 페이지 개발 및 상품 관리 시스템 구축</li>
+</ul>
+
+<div class="detail-title">이끌로 의뢰형 의류생산 플랫폼 구축, 서울특별시 강남구 — 프리랜서</div>
+<div class="detail-period">2024년 7월 - 2024년 12월</div>
+<ul class="detail-list">
+    <li>의류 생산 의뢰 플랫폼 프론트엔드 개발</li>
+    <li>실시간 견적 시스템 및 주문 관리 시스템 구현</li>
+    <li>사용자 맞춤형 디자인 도구 개발</li>
+</ul>
 
 <h1 class="section-title">상세 경력</h1>
 
