@@ -279,6 +279,60 @@ tags:
 
 <div class="project-grid">
     <div class="project-left">
+        <h4>케어링 홈페이지 유지보수 및 개편</h4>
+        <div class="project-images">
+            <img src="/img/caring_logo.png" alt="케어링" class="logo-image">
+        </div>
+    </div>
+    <div class="project-right">
+        <p><strong>기간</strong>: 2023.06 - 2024.12</p>
+        <p><strong>기술</strong>: <code>Next.js</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
+        <ul class="detail-list">
+            <li>케어링 공식 웹사이트 유지보수 및 UI/UX 개편 프로젝트 참여</li>
+            <li>Next.js 기반 웹사이트 성능 최적화 및 SEO 개선</li>
+            <li>반응형 디자인 적용 및 모바일 사용성 개선</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project-grid">
+    <div class="project-left">
+        <h4>언니구두 쇼핑몰</h4>
+        <div class="project-images">
+            <img src="/img/unnigudu_logo.png" alt="언니구두" class="logo-image">
+        </div>
+    </div>
+    <div class="project-right">
+        <p><strong>기간</strong>: 2024.01 - 2024.06</p>
+        <p><strong>기술</strong>: <code>React</code> <code>TypeScript</code> <code>Styled-Components</code></p>
+        <ul class="detail-list">
+            <li>React 기반 쇼핑몰 프론트엔드 개발</li>
+            <li>결제 시스템 연동 및 장바구니 기능 구현</li>
+            <li>관리자 페이지 개발 및 상품 관리 시스템 구축</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project-grid">
+    <div class="project-left">
+        <h4>이끌로 의뢰형 의류생산 플랫폼</h4>
+        <div class="project-images">
+            <img src="/img/ikillo_logo.png" alt="이끌로" class="logo-image">
+        </div>
+    </div>
+    <div class="project-right">
+        <p><strong>기간</strong>: 2024.07 - 2024.12</p>
+        <p><strong>기술</strong>: <code>React</code> <code>TypeScript</code> <code>TailwindCSS</code></p>
+        <ul class="detail-list">
+            <li>의류 생산 의뢰 플랫폼 프론트엔드 개발</li>
+            <li>실시간 견적 시스템 및 주문 관리 시스템 구현</li>
+            <li>사용자 맞춤형 디자인 도구 개발</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project-grid">
+    <div class="project-left">
         <h4>당근마켓 클론</h4>
         <div class="project-images">
             <img src="/img/carrot_logo.svg" alt="당근마켓 로고" class="logo-image">
