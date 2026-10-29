@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description | escape }}">
+    <meta name="theme-color" content="#f6f7f3">
+    <title>{{ page.title | escape }} — Portfolio</title>
+    <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url | replace: 'http:', 'https:' }}">
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | replace: 'http:', 'https:' }}">
+    <link rel="icon" href="{{ '/img/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/css/portfolio.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
+    <script src="{{ '/js/portfolio.js' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}" defer></script>
+</head>
+<body>
+    <a class="skip-link" href="#main">본문으로 바로가기</a>
+    <header class="site-header">
+        <a class="wordmark" href="#main" aria-label="조진혁 포트폴리오 처음으로">
+            <span class="wordmark-symbol" aria-hidden="true">jh<span>.</span></span>
+            <span class="wordmark-label">조진혁 <span>/ Portfolio</span></span>
+        </a>
+        <nav aria-label="포트폴리오 메뉴">
+            <a href="#work">주요 프로젝트</a>
+            <a href="#experience">경력</a>
+            <a href="{{ '/' | relative_url }}" class="blog-link">블로그 <span aria-hidden="true">↗</span></a>
+        </nav>
+    </header>
+    <main id="main">{{ content }}</main>
+    <footer class="site-footer">
+        <span>© {{ site.time | date: '%Y' }} Jinhyuk Jo</span>
+        <a href="#main">처음으로 <span aria-hidden="true">↑</span></a>
+    </footer>
+</body>
+</html>

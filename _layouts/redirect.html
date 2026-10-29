@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to | relative_url }}">
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url | replace: 'http:', 'https:' }}">
+    <title>조진혁 포트폴리오로 이동</title>
+</head>
+<body>
+    <p>새 포트폴리오로 이동합니다. <a href="{{ page.redirect_to | relative_url }}">포트폴리오 보기</a></p>
+    <script>window.location.replace({{ page.redirect_to | relative_url | jsonify }} + window.location.search + window.location.hash);</script>
+</body>
+</html>
