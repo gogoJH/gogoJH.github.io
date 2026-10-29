@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "웹 요청의 흐름과 HTTP GET·POST"
+journal_category: "기술 노트"
+description: "웹사이트에 접속하고 데이터를 주고받는 과정을 GET·POST 중심으로 정리했습니다."
 ---
 
 

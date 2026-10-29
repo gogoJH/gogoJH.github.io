@@ -1,42 +1,49 @@
 ---
-layout: page
-description: "Thinking will not overcome fear but action will."
+layout: journal
+description: "프론트엔드 개발자 조진혁의 기록. 문제를 풀며 배운 것과 함께 일하며 남긴 생각을 정리합니다."
 ---
-
-{% for post in paginator.posts %}
-<div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">
-            {{ post.subtitle }}
-        </h3>
-        {% endif %}
-        <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:200 }}
+{% assign journal_posts = site.posts | where_exp: 'post', 'post.archived != true' | where_exp: 'post', "post.layout != 'portfolio'" %}
+{% assign selected_posts = journal_posts | where_exp: 'post', 'post.featured_order' | sort: 'featured_order' %}
+<section class="journal-hero wrap" aria-labelledby="journal-title">
+    <div>
+        <p class="eyebrow"><span class="small-dot" aria-hidden="true"></span> ENGINEERING NOTES / JINHYUK JO</p>
+        <h1 id="journal-title">개발의 과정과,<br><span>그 안의 생각들.</span></h1>
+        <p class="journal-intro">프론트엔드 개발 중 마주친 문제와 선택,<br>함께 일하며 배운 것들을 기록합니다.</p>
+        <div class="hero-actions"><a class="button button-dark" href="#writing">글 읽기 <span aria-hidden="true">↓</span></a><span class="text-link">{{ journal_posts.size }}개의 기록 · 기술과 협업의 경험</span></div>
+    </div>
+    <aside class="profile-note" aria-label="작성자 소개">
+        <p class="eyebrow">THE PERSON BEHIND THE NOTES</p>
+        <h2>조진혁</h2><p class="profile-role">Frontend Engineer · 5년 차</p>
+        <p>ERP와 데이터 인터페이스,<br>서비스의 구조를 설계하고 구현합니다.</p>
+        <a href="{{ '/portfolio/' | relative_url }}">경력과 프로젝트 보기 <span aria-hidden="true">↗</span></a>
+    </aside>
+</section>
+<section class="journal-section wrap" aria-labelledby="selected-title">
+    <div class="section-heading"><div><p class="eyebrow">01 / SELECTED NOTES</p><h2 id="selected-title">먼저 읽어볼 글</h2></div><p class="section-description">문제를 마주하고, 방법을 찾아간 기록.</p></div>
+    <div class="selected-grid">
+        {% for post in selected_posts %}
+        <article class="selected-card">
+            <div class="selected-meta"><span>0{{ forloop.index }} / {{ post.journal_category }}</span><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m' }}</time></div>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.display_title | default: post.title | escape }}</a></h3>
+            <p>{{ post.description | escape }}</p>
+            <div class="selected-end"><span>기록 읽기</span><span aria-hidden="true">↗</span></div>
+        </article>
+        {% endfor %}
+    </div>
+</section>
+<section class="journal-section writing-section wrap" id="writing" aria-labelledby="writing-title" data-journal>
+    <div class="section-heading"><div><p class="eyebrow">02 / ALL WRITING</p><h2 id="writing-title">쌓아온 기록</h2></div><p class="section-description">기술 노트, 프로젝트와 일하는 방식에 관하여.</p></div>
+    <div class="writing-toolbar" data-filter-controls hidden>
+        <div class="category-filters" role="group" aria-label="글 분류">
+            <button type="button" data-filter="all" aria-pressed="true">전체</button>
+            <button type="button" data-filter="문제 해결" aria-pressed="false">문제 해결</button>
+            <button type="button" data-filter="기술 노트" aria-pressed="false">기술 노트</button>
+            <button type="button" data-filter="프로젝트" aria-pressed="false">프로젝트</button>
+            <button type="button" data-filter="개발과 협업" aria-pressed="false">개발과 협업</button>
         </div>
-    </a>
-    <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-</div>
-<hr>
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-<ul class="pager">
-    {% if paginator.previous_page %}
-    <li class="previous">
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-    </li>
-    {% endif %}
-    {% if paginator.next_page %}
-    <li class="next">
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+        <label class="search-field"><span class="visually-hidden">제목, 설명 또는 태그로 글 검색</span><input type="search" placeholder="궁금한 기록을 찾아보세요" aria-label="제목, 설명 또는 태그로 글 검색" data-search-input></label>
+    </div>
+    <p class="result-count" data-result-count role="status" aria-live="polite">{{ journal_posts.size }}개의 글</p>
+    <div class="writing-list">{% for post in journal_posts %}{% include journal-card.html post=post %}{% endfor %}</div>
+    <div class="empty-results" data-empty hidden><h3>조건에 맞는 기록이 없습니다.</h3><p>다른 검색어를 입력하거나 분류를 바꿔보세요.</p><button type="button" data-reset>전체 글 보기</button></div>
+</section>

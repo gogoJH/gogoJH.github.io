@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "JavaScript의 동기·비동기와 이벤트 루프"
+journal_category: "기술 노트"
+description: "Stack, Web APIs, Callback Queue를 통해 비동기 동작을 이해해 본 기록입니다."
 ---
 
 <br>

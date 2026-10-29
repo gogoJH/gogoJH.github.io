@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "자료구조 학습 노트: Stack, Queue, Linked List"
+journal_category: "기술 노트"
+description: "Stack, Queue, Linked List를 학습하며 정리한 글과 참고 링크를 모았습니다."
 ---
 
 

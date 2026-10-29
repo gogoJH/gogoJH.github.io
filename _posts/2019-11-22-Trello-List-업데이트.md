@@ -11,6 +11,8 @@ tags:
     - JS
     - Trello
     - 프로젝트
+archived: true
+archive_reason: "진행 상황·할 일 위주로 짧게 남긴 작업 메모"
 ---
 ### 해야할일 
 List 수정시 바로 업데이트 안되는 부분 수정.

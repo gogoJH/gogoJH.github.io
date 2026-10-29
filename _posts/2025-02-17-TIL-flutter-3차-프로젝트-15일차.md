@@ -11,6 +11,8 @@ tags:
     - 개발일기
     - 프로젝트
     - Dart
+archived: true
+archive_reason: "작업 항목·화면 캡처 중심이며 구현 과정이나 회고가 비어 있는 일일 기록"
 ---
 
 ### Scrum

@@ -10,6 +10,8 @@ tags:
     - TIL
     - 개발일기
     - JS
+archived: true
+archive_reason: "제목과 맞는 설명 없이 이전 글의 문구와 빈 목차만 남은 글"
 ---
 
 <br>

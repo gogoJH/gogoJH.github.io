@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "JavaScript에서 상속 관계 구현하기"
+journal_category: "기술 노트"
+description: "Object.create와 생성자 호출을 이용해 부모와 자식의 관계를 구현한 학습 기록입니다."
 ---
 
 

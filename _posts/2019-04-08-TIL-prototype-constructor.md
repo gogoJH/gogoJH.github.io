@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "JavaScript의 prototype과 constructor"
+journal_category: "기술 노트"
+description: "생성자와 인스턴스의 관계를 코드 예제로 살펴본 초기 JavaScript 학습 노트입니다."
 ---
 
 

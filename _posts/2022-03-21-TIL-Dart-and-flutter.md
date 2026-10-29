@@ -11,6 +11,9 @@ tags:
     - 개발일기
     - JS
     - TIL
+display_title: "React Native 경험을 돌아보며 Flutter 시작하기"
+journal_category: "기술 노트"
+description: "React Native로 앱을 개발했던 경험을 바탕으로 Dart와 Flutter 학습을 시작한 기록입니다."
 ---
 # 새언어 Dart 공부 시작.
 

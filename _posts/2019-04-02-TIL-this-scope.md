@@ -10,6 +10,8 @@ tags:
     - TIL
     - 개발일기
     - JS
+archived: true
+archive_reason: "진행 상황·할 일 위주로 짧게 남긴 작업 메모"
 ---
 
 

@@ -10,6 +10,9 @@ tags:
     - TIL
     - 개발일기
     - JS
+display_title: "자료구조 학습 노트: Tree와 Hash Table"
+journal_category: "기술 노트"
+description: "Tree, Binary Tree, Hash Table을 공부하며 남긴 자료구조 학습 기록입니다."
 ---
 
 
